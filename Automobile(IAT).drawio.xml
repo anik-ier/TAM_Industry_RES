@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T13:06:21.207Z" agent="5.0 (Windows)" etag="av-DfrbC1OaxLF_0bM6o" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T13:10:24.924Z" agent="5.0 (Windows)" etag="O6s5i4u7LhVW2ezWn9Yy" version="20.8.20" type="github">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-nMXzQhrjQ_sv6P07c78-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="105" width="60" height="455" as="geometry" />
+          <mxGeometry x="680" y="105" width="105" height="455" as="geometry" />
         </mxCell>
         <mxCell id="-nMXzQhrjQ_sv6P07c78-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-nMXzQhrjQ_sv6P07c78-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -132,6 +132,9 @@
             <mxPoint x="30" y="455" as="sourcePoint" />
             <mxPoint x="30" y="55" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-nMXzQhrjQ_sv6P07c78-55" value="Heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="-nMXzQhrjQ_sv6P07c78-36">
+          <mxGeometry x="20" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-nMXzQhrjQ_sv6P07c78-39" value="Body" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="60" height="30" as="geometry" />
@@ -179,13 +182,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-nMXzQhrjQ_sv6P07c78-52" value="Assembly &amp;amp; Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nMXzQhrjQ_sv6P07c78-53" value="" style="endArrow=none;html=1;rounded=0;endSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="160" as="sourcePoint" />
             <mxPoint x="920" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-nMXzQhrjQ_sv6P07c78-54" value="" style="endArrow=none;html=1;rounded=0;endSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="560" as="sourcePoint" />
+            <mxPoint x="730" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-nMXzQhrjQ_sv6P07c78-56" value="Painted Body" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="630" y="100" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
