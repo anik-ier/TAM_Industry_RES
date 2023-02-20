@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T13:10:24.924Z" agent="5.0 (Windows)" etag="O6s5i4u7LhVW2ezWn9Yy" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T13:12:05.706Z" agent="5.0 (Windows)" etag="7scjahnqpdAZCSom6VgF" version="20.8.20" type="github">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,6 +198,12 @@
         </mxCell>
         <mxCell id="-nMXzQhrjQ_sv6P07c78-56" value="Painted Body" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="630" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nMXzQhrjQ_sv6P07c78-57" value="IAT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="890" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nMXzQhrjQ_sv6P07c78-59" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="900.5" y="84" width="39" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
