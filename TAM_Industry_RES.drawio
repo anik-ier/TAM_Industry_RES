@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T23:28:10.817Z" agent="5.0 (Windows)" etag="aJTdL8t8ByLX7IU-aBFw" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T23:38:41.282Z" agent="5.0 (Windows)" etag="YOUc8QE-620vilcFE3pr" version="20.8.22" type="github" pages="2">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -581,7 +581,7 @@
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#59cfd9;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="7VgWf5LXwZU-pzO7RZiy-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-340" y="379.8571428571431" as="targetPoint" />
+            <mxPoint x="-340" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-45" value="Methane Pyrolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -655,6 +655,47 @@
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-64" value="Biomass" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="-780" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="7VgWf5LXwZU-pzO7RZiy-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420" y="299.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="7VgWf5LXwZU-pzO7RZiy-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="279.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="7VgWf5LXwZU-pzO7RZiy-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="259.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="7VgWf5LXwZU-pzO7RZiy-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-325" y="240" />
+              <mxPoint x="-325" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="7VgWf5LXwZU-pzO7RZiy-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-77" value="Methanol Synthesis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120.70999999999998" y="440" as="sourcePoint" />
+            <mxPoint x="-120.70999999999998" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-80" value="Methanol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="65" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
