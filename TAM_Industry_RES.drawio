@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T22:51:51.938Z" agent="5.0 (Windows)" etag="u6vvsbPwlDZXFCeM5gch" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T23:01:04.739Z" agent="5.0 (Windows)" etag="XbP_SZ4BoD1isa9WhgYO" version="20.8.22" type="github" pages="2">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -499,22 +499,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-28" value="CO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="-510" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VgWf5LXwZU-pzO7RZiy-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-29" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-460" y="440" as="sourcePoint" />
             <mxPoint x="-460" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-30" value="H2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="70" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7VgWf5LXwZU-pzO7RZiy-33" value="Syngas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-502.5" y="30" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7VgWf5LXwZU-pzO7RZiy-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-495" y="50" width="45" height="20" as="geometry" />
+          <mxGeometry x="-490" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -523,10 +517,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-37" value="CO2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="-460" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7VgWf5LXwZU-pzO7RZiy-39" value="Partial Oxidization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-750" y="440" as="sourcePoint" />
+            <mxPoint x="-750" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-42" value="ELC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-502.5" y="30" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-33" value="Syngas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7VgWf5LXwZU-pzO7RZiy-43">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;" vertex="1" parent="7VgWf5LXwZU-pzO7RZiy-43">
+          <mxGeometry x="7.5" y="30" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-45" value="Methane Pyrolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-770" y="440" as="sourcePoint" />
+            <mxPoint x="-770" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VgWf5LXwZU-pzO7RZiy-48" value="Heavy Oil (Feedstock)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-835" y="40" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
