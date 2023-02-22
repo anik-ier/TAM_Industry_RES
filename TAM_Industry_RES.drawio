@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T13:20:46.137Z" agent="5.0 (Windows)" etag="tj8qOwk-9OYPHqD7EIKH" version="20.8.22" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-22T13:21:25.151Z" agent="5.0 (Windows)" etag="5DNInpW9btckQlYPxCVs" version="20.8.22" type="github" pages="4">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1558,7 +1558,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uKK2CgScHS3aqBv8s_OZ-79" value="Steam reforming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uKK2CgScHS3aqBv8s_OZ-79" value="Steam reforming" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-570" y="-415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uKK2CgScHS3aqBv8s_OZ-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -1636,7 +1636,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uKK2CgScHS3aqBv8s_OZ-95" value="&#xa;Methane Pyrolysis&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uKK2CgScHS3aqBv8s_OZ-95" value="&#xa;Methane Pyrolysis&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-510" y="-345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uKK2CgScHS3aqBv8s_OZ-96" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -1682,7 +1682,7 @@
             <mxPoint x="30" y="-245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uKK2CgScHS3aqBv8s_OZ-106" value="Electrolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uKK2CgScHS3aqBv8s_OZ-106" value="Electrolysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-460" y="-275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uKK2CgScHS3aqBv8s_OZ-107" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -2190,7 +2190,7 @@
             <mxPoint x="-240" y="243.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JrGPvS8ZtyMjnkyZoQDR-52" value="&#xa;Methane Pyrolysis&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#330000;fillColor=#2EE6E6;" vertex="1" parent="1">
+        <mxCell id="JrGPvS8ZtyMjnkyZoQDR-52" value="&#xa;Methane Pyrolysis&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
           <mxGeometry x="-545" y="228.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrGPvS8ZtyMjnkyZoQDR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="JrGPvS8ZtyMjnkyZoQDR-56">
