@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T13:23:44.445Z" agent="5.0 (Windows)" etag="F8kYxqwYdIIdkkIU3dMv" version="20.8.22" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-22T13:25:05.365Z" agent="5.0 (Windows)" etag="P1BxSEM1rZG5W5T2HoYf" version="20.8.22" type="github" pages="3">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1108,9 +1108,6 @@
         </mxCell>
         <mxCell id="kikfPWUPa6clIVoQxghs-27" value="HTH (By Nat Gas?)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
           <mxGeometry x="425" y="36.25" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kikfPWUPa6clIVoQxghs-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kikfPWUPa6clIVoQxghs-27" target="kikfPWUPa6clIVoQxghs-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jH2LB44tCnty56aoixDT-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
