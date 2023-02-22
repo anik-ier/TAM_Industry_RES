@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T11:27:54.748Z" agent="5.0 (Windows)" etag="2cndKiLxi016zEbFv8Fa" version="20.8.22" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-22T11:30:42.504Z" agent="5.0 (Windows)" etag="rk7tIuSEMpmBOvycT61C" version="20.8.22" type="github" pages="3">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1278,10 +1278,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="axutxCxU2P_9apDhmWvi-54" value="Haber-Bosch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="yiLv1HKtLhPeLtpygNvL-1">
-          <mxGeometry x="-80" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="axutxCxU2P_9apDhmWvi-56" value="H2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="yiLv1HKtLhPeLtpygNvL-1">
           <mxGeometry x="-200" y="-1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="-560" as="sourcePoint" />
+            <mxPoint x="-150" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-60" value="N2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry x="-180" y="-1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="-560" as="sourcePoint" />
+            <mxPoint x="-130" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-62" value="HTH (by Nat. Gas ?)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry x="-187.5" y="-1050" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
