@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T11:49:37.016Z" agent="5.0 (Windows)" etag="jenb0mJzFaF_jLYYew8t" version="20.8.22" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-22T11:51:01.264Z" agent="5.0 (Windows)" etag="IqspvjqAGtnJauqXlMbz" version="20.8.22" type="github" pages="3">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1280,6 +1280,11 @@
             <mxPoint x="-95" y="-865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;" edge="1" parent="yiLv1HKtLhPeLtpygNvL-1" source="axutxCxU2P_9apDhmWvi-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="-835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="axutxCxU2P_9apDhmWvi-54" value="Haber-Bosch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="yiLv1HKtLhPeLtpygNvL-1">
           <mxGeometry y="-880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1357,6 +1362,24 @@
             <mxPoint x="-135" y="-770" as="sourcePoint" />
             <mxPoint x="-169" y="-770" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="-562.5" as="sourcePoint" />
+            <mxPoint x="159" y="-962.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-83" value="Ammonia" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1" vertex="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry x="130" y="-1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="-562.5" as="sourcePoint" />
+            <mxPoint x="179" y="-962.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axutxCxU2P_9apDhmWvi-86" value="Heat" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1" vertex="1" parent="yiLv1HKtLhPeLtpygNvL-1">
+          <mxGeometry x="150" y="-1020" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
