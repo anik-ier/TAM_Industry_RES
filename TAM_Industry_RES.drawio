@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T09:02:25.590Z" agent="5.0 (Windows)" etag="mI-LVxGg45hxh_cC2coL" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-28T09:03:22.170Z" agent="5.0 (Windows)" etag="S5C9PbbhLsuUXoqVvC4W" version="20.8.23" type="github" pages="3">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -829,8 +829,8 @@
         </mxCell>
         <mxCell id="VvXdEMky0awhfUObhZcT-23" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2400" y="480" as="sourcePoint" />
-            <mxPoint x="2106" y="480" as="targetPoint" />
+            <mxPoint x="2400" y="470" as="sourcePoint" />
+            <mxPoint x="2045" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
