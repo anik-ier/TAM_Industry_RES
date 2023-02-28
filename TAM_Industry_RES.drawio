@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T08:56:45.985Z" agent="5.0 (Windows)" etag="8j1TfBM6ibtPf4hHsmKi" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-28T08:59:03.244Z" agent="5.0 (Windows)" etag="7_DodWgq5rbFMEF0TTKy" version="20.8.23" type="github" pages="3">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -771,6 +771,18 @@
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-29" value="Heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
           <mxGeometry x="2075" y="117.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VvXdEMky0awhfUObhZcT-9" value="HVAC &amp;amp; Lighting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvXdEMky0awhfUObhZcT-10" value="Material Handling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvXdEMky0awhfUObhZcT-11" value="Compressed Air" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvXdEMky0awhfUObhZcT-12" value="Space Heating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="380" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
