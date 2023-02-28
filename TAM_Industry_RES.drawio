@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T07:48:15.037Z" agent="5.0 (Windows)" etag="zYoyeUZkvrWWvmF5BfuB" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-28T07:54:21.953Z" agent="5.0 (Windows)" etag="yAqnyG-rcLltESsd0m4z" version="20.8.23" type="github" pages="3">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -643,17 +643,27 @@
             <mxPoint x="1560" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-64" value="Float Glass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VvXdEMky0awhfUObhZcT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="AGc4R4K8a3GPV6Q_0TK7-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VvXdEMky0awhfUObhZcT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="AGc4R4K8a3GPV6Q_0TK7-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-64" value="Battery Production Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="590" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-65" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1170" y="165" as="sourcePoint" />
-            <mxPoint x="1170" y="640" as="targetPoint" />
+            <mxPoint x="1150" y="165" as="sourcePoint" />
+            <mxPoint x="1150" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-66" value="Materialls" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="1120" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-107" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="AGc4R4K8a3GPV6Q_0TK7-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -776,6 +786,15 @@
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-125" value="Workplace &amp;amp; others" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1900" y="470" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvXdEMky0awhfUObhZcT-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="165" as="sourcePoint" />
+            <mxPoint x="1170" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VvXdEMky0awhfUObhZcT-2" value="Heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
