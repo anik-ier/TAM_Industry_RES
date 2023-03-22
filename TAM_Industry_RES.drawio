@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T10:48:55.274Z" agent="5.0 (Windows)" etag="EWDJyH-GwOdftR1HZbhD" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-22T11:01:23.561Z" agent="5.0 (Windows)" etag="Exl8iM-nfQbENGrsfHBw" version="21.0.10" type="github" pages="4">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="2284" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -600,7 +600,7 @@
             <mxPoint x="1410" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-64" value="Battery Production Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-64" value="Battery Production Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1240" y="540" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-65" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -842,12 +842,12 @@
             <mxPoint x="2172.75" y="420.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-daOozDsuIYtVRzh7YMY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="1" source="VvXdEMky0awhfUObhZcT-12">
+        <mxCell id="-daOozDsuIYtVRzh7YMY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="1" source="VvXdEMky0awhfUObhZcT-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1905" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-daOozDsuIYtVRzh7YMY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="VvXdEMky0awhfUObhZcT-12">
+        <mxCell id="-daOozDsuIYtVRzh7YMY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" parent="1" source="VvXdEMky0awhfUObhZcT-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1937" y="410" as="targetPoint" />
           </mxGeometry>
@@ -927,13 +927,13 @@
             <mxPoint x="2208.75" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-daOozDsuIYtVRzh7YMY-1" value="Battery Production Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-daOozDsuIYtVRzh7YMY-1" value="Battery Production Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="390" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-daOozDsuIYtVRzh7YMY-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="-daOozDsuIYtVRzh7YMY-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1890" y="99.5" width="52.5" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="-daOozDsuIYtVRzh7YMY-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-daOozDsuIYtVRzh7YMY-3" target="-daOozDsuIYtVRzh7YMY-5">
+        <mxCell id="-daOozDsuIYtVRzh7YMY-4" value="" style="endArrow=none;html=1;rounded=0;" parent="-daOozDsuIYtVRzh7YMY-3" target="-daOozDsuIYtVRzh7YMY-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="15" y="460" as="sourcePoint" />
             <mxPoint x="15" y="55.60439560439562" as="targetPoint" />
@@ -942,7 +942,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-daOozDsuIYtVRzh7YMY-5" value="District Heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="-daOozDsuIYtVRzh7YMY-3">
+        <mxCell id="-daOozDsuIYtVRzh7YMY-5" value="District Heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="-daOozDsuIYtVRzh7YMY-3" vertex="1">
           <mxGeometry x="-22.5" y="7.66" width="75" height="30.33" as="geometry" />
         </mxCell>
       </root>
