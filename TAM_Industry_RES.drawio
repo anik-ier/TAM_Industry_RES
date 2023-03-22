@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T11:56:22.131Z" agent="5.0 (Windows)" etag="sz-1fy7lIzIYu64AZ17g" version="21.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-22T09:44:57.134Z" agent="5.0 (Windows)" etag="eqUxT0HOQY7iJumR_TQo" version="21.0.6" type="github" pages="4">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="2284" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -916,6 +916,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2186" y="292" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-daOozDsuIYtVRzh7YMY-1" value="Battery Production Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
