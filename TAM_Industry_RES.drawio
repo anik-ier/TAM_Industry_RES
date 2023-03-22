@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T11:01:23.561Z" agent="5.0 (Windows)" etag="Exl8iM-nfQbENGrsfHBw" version="21.0.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-22T11:07:55.204Z" agent="5.0 (Windows)" etag="XPUv9c5_VlRp8YMgGc8W" version="21.0.10" type="github" pages="4">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="2284" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
             <mxPoint x="1410" y="196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-55" value="Stamping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-55" value="Stamping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1240" y="180.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="1" source="AGc4R4K8a3GPV6Q_0TK7-57" edge="1">
@@ -426,7 +426,7 @@
             <mxPoint x="1410" y="236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-57" value="Machining" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-57" value="Machining" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1240" y="220.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="1" source="AGc4R4K8a3GPV6Q_0TK7-58" edge="1">
@@ -444,7 +444,7 @@
             <mxPoint x="1410" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-58" value="Casting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="AGc4R4K8a3GPV6Q_0TK7-58" value="Casting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1240" y="260.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AGc4R4K8a3GPV6Q_0TK7-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="1" source="AGc4R4K8a3GPV6Q_0TK7-59" edge="1">
