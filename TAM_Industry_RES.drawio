@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T07:58:31.027Z" agent="5.0 (Windows)" etag="2N9zUUsY7vBlOpaZfeAH" version="21.0.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-24T08:03:54.350Z" agent="5.0 (Windows)" etag="6fH-87Z1h-TFOk2zVtbv" version="21.0.10" type="github" pages="4">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="2284" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -944,6 +944,9 @@
         </mxCell>
         <mxCell id="-daOozDsuIYtVRzh7YMY-5" value="District Heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="-daOozDsuIYtVRzh7YMY-3" vertex="1">
           <mxGeometry x="-22.5" y="7.66" width="75" height="30.33" as="geometry" />
+        </mxCell>
+        <mxCell id="pdqRb4v9-V7N_bG8mLsS-1" value="Hot water Tech." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
