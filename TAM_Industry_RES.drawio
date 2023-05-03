@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T12:47:43.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="1X1L1M3KPGMgGrxtZWrs" version="21.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-03T12:48:20.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="Gu8UW2hVqhhJtkSQSPsM" version="21.2.7" type="github" pages="5">
   <diagram id="zB8jX1uGKe1ePh4QPGxl" name="IAT_Automobile">
     <mxGraphModel dx="2524" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1299,13 +1299,13 @@
             <mxRectangle x="60" y="191.75" width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H7mIYQmPuJ2SLxc9yEtu-102" value="Parts Production, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H7mIYQmPuJ2SLxc9yEtu-101">
+        <mxCell id="H7mIYQmPuJ2SLxc9yEtu-102" value="Parts Production, LCV_BEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H7mIYQmPuJ2SLxc9yEtu-101">
           <mxGeometry y="78.25" width="170" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="H7mIYQmPuJ2SLxc9yEtu-103" value="Parts Production, LCV_ICEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H7mIYQmPuJ2SLxc9yEtu-101">
           <mxGeometry y="28.249999999999993" width="170" height="41.75" as="geometry" />
         </mxCell>
-        <mxCell id="H7mIYQmPuJ2SLxc9yEtu-105" value="Parts Production, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H7mIYQmPuJ2SLxc9yEtu-101">
+        <mxCell id="H7mIYQmPuJ2SLxc9yEtu-105" value="Parts Production, LCV:FCEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H7mIYQmPuJ2SLxc9yEtu-101">
           <mxGeometry y="127.25" width="170" height="41.75" as="geometry" />
         </mxCell>
       </root>
