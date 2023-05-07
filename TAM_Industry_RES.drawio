@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T21:51:24.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="dbmnt92aNun5CXq9AHwy" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-07T21:51:58.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="QAG6IwbR4nS9etQKYR6K" version="21.2.9" type="github" pages="7">
   <diagram name="IAT_Automobile_v2" id="cFXwXDlHmTeH0bddKjDf">
     <mxGraphModel dx="1644" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,8 +214,8 @@
         <mxCell id="26605t0zmfsfSugy_614-187" value="Painted LCV_BEV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="26605t0zmfsfSugy_614-1" vertex="1">
           <mxGeometry x="916" y="140.43" width="112" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="26605t0zmfsfSugy_614-228" value="District heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="26605t0zmfsfSugy_614-1" vertex="1">
-          <mxGeometry x="1038" y="151.43" width="90" height="18" as="geometry" />
+        <mxCell id="26605t0zmfsfSugy_614-228" value="District heat/ LTH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="26605t0zmfsfSugy_614-1" vertex="1">
+          <mxGeometry x="1008" y="134.12" width="102" height="18" as="geometry" />
         </mxCell>
         <mxCell id="26605t0zmfsfSugy_614-231" value="PKW_ICEV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="26605t0zmfsfSugy_614-1" vertex="1">
           <mxGeometry x="1338" y="151.43" width="60" height="30" as="geometry" />
@@ -813,9 +813,6 @@
             <mxPoint x="1058" y="721.05" as="sourcePoint" />
             <mxPoint x="1058" y="200" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fWa6c8U9xGFsyVYabqyl-51" value="Nat. Gas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="26605t0zmfsfSugy_614-1" vertex="1">
-          <mxGeometry x="1028" y="161.05000000000004" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fWa6c8U9xGFsyVYabqyl-52" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.035;entryY=0.888;entryDx=0;entryDy=0;entryPerimeter=0;" parent="26605t0zmfsfSugy_614-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
