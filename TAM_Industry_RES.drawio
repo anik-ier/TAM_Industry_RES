@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T21:37:25.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="4up6PCcEmwTo2yq9mAI0" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-07T21:39:55.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="Lh0DfRoh8AZfuezQoiVz" version="21.2.9" type="github" pages="7">
   <diagram name="IAT_Automobile_v2" id="cFXwXDlHmTeH0bddKjDf">
     <mxGraphModel dx="1884" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1654,7 +1654,7 @@
           <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="Td8PF8ZJyUpj7O6webFp-90" value="Parts Production, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Td8PF8ZJyUpj7O6webFp-88">
-          <mxGeometry x="10" y="70" width="160" height="30.87" as="geometry" />
+          <mxGeometry x="10" y="70" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Td8PF8ZJyUpj7O6webFp-91" value="Parts Production, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Td8PF8ZJyUpj7O6webFp-88">
           <mxGeometry x="10" y="28.25" width="160" height="31.75" as="geometry" />
@@ -1668,7 +1668,7 @@
         <mxCell id="Td8PF8ZJyUpj7O6webFp-94" value="Parts Production, LCV_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Td8PF8ZJyUpj7O6webFp-88">
           <mxGeometry x="10" y="230" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Td8PF8ZJyUpj7O6webFp-95" value="Parts Production, LCV:FCEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Td8PF8ZJyUpj7O6webFp-88">
+        <mxCell id="Td8PF8ZJyUpj7O6webFp-95" value="Parts Production, LCV_FCEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Td8PF8ZJyUpj7O6webFp-88">
           <mxGeometry x="10" y="270" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Td8PF8ZJyUpj7O6webFp-96" value="Parts Production, HCV_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="Td8PF8ZJyUpj7O6webFp-88">
