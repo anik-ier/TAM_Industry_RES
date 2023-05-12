@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T10:43:04.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="R2uqgOBEV-vKZxXvM4kS" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-12T10:51:46.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="p-oxndiRPOFs0YitG6Yv" version="21.2.9" type="github" pages="8">
   <diagram name="IAT_Automobile_v2" id="cFXwXDlHmTeH0bddKjDf">
     <mxGraphModel dx="1884" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1339,7 +1339,7 @@
         <mxCell id="aGgSfm5aTbG6A3sInM-m-0" />
         <mxCell id="aGgSfm5aTbG6A3sInM-m-1" parent="aGgSfm5aTbG6A3sInM-m-0" />
         <mxCell id="aGgSfm5aTbG6A3sInM-m-5" value="&lt;div&gt;Light Commercial Vehicle (LCV)- Van&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Heavy Commercial Vehicle (HCV)- Truck, Bus&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
-          <mxGeometry x="-574.25" y="760" width="250" height="80" as="geometry" />
+          <mxGeometry x="-648" y="750" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aGgSfm5aTbG6A3sInM-m-9" value="" style="group" vertex="1" connectable="0" parent="aGgSfm5aTbG6A3sInM-m-1">
           <mxGeometry x="-712" y="125.88" width="51.58" height="594.12" as="geometry" />
@@ -1435,7 +1435,7 @@
           <mxGeometry x="-342.75" y="422.6" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aGgSfm5aTbG6A3sInM-m-68" value="Assembly &amp;amp; Others" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
-          <mxGeometry x="-304.25" y="760" width="140" height="150" as="geometry">
+          <mxGeometry x="600" y="475" width="140" height="150" as="geometry">
             <mxRectangle x="-547" y="880" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2145,41 +2145,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t5TELH3TRGzKAeCvR44F-31" value="Parts PKW_ICEV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
-          <mxGeometry x="-80" y="490.52" width="180" height="229.48" as="geometry">
+          <mxGeometry x="-200" y="470.52" width="180" height="229.48" as="geometry">
             <mxRectangle x="-80" y="490.52" width="170" height="164.75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t5TELH3TRGzKAeCvR44F-32" value="Chassis, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
-          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
+          <mxGeometry x="10" y="69.47999999999999" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="t5TELH3TRGzKAeCvR44F-33" value="Powertrain, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
-          <mxGeometry x="10" y="70" width="160" height="30.87" as="geometry" />
+          <mxGeometry x="10" y="149.48000000000002" width="160" height="30.87" as="geometry" />
         </mxCell>
         <mxCell id="t5TELH3TRGzKAeCvR44F-34" value="Body-system, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
           <mxGeometry x="10" y="28.25" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="t5TELH3TRGzKAeCvR44F-35" value="Transmission, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
-          <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
+          <mxGeometry x="10" y="109.47999999999999" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-0" value="Pb-Battery, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
           <mxGeometry x="10" y="189.48000000000002" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-1" value="Parts PKW_PHEV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
-          <mxGeometry x="110" y="490.52" width="180" height="389.48" as="geometry">
+          <mxGeometry x="-10" y="470.52" width="180" height="389.48" as="geometry">
             <mxRectangle x="-80" y="490.52" width="170" height="164.75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-2" value="Chassis, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-1">
-          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
-        </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-3" value="Powertrain, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-1">
-          <mxGeometry x="10" y="70" width="160" height="30.87" as="geometry" />
+          <mxGeometry x="10" y="69.47999999999999" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-4" value="Body-system, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-1">
           <mxGeometry x="10" y="28.25" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-5" value="Transmission, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-1">
-          <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
+          <mxGeometry x="10" y="109.47999999999999" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-6" value="Pb-Battery, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-1">
           <mxGeometry x="10" y="309.48" width="160" height="31.75" as="geometry" />
@@ -2196,24 +2193,24 @@
         <mxCell id="IbhhdNptZylNwDZ19wqC-27" value="Traction Motor, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-1">
           <mxGeometry x="10" y="227.73000000000002" width="160" height="31.75" as="geometry" />
         </mxCell>
+        <mxCell id="IbhhdNptZylNwDZ19wqC-3" value="Powertrain, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-1">
+          <mxGeometry x="10" y="149.48000000000002" width="160" height="30.87" as="geometry" />
+        </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-7" value="Parts PKW_BEV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
-          <mxGeometry x="304.75" y="490" width="180" height="310" as="geometry">
+          <mxGeometry x="184.75" y="470" width="180" height="310" as="geometry">
             <mxRectangle x="-80" y="490.52" width="170" height="164.75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-8" value="Chassis, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
-          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
-        </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-9" value="Powertrain, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
-          <mxGeometry x="10" y="70" width="160" height="30.87" as="geometry" />
+          <mxGeometry x="10" y="70" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-10" value="Body-system, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
           <mxGeometry x="10" y="28.25" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-11" value="Transmission, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
-          <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
+          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
         </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-23" value="Electric-Drive-System, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
+        <mxCell id="IbhhdNptZylNwDZ19wqC-23" value="Electric Controller PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
           <mxGeometry x="10" y="190" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="IbhhdNptZylNwDZ19wqC-24" value="Pb-Battery, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
@@ -2222,25 +2219,40 @@
         <mxCell id="IbhhdNptZylNwDZ19wqC-25" value="Li-Ion Battery, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
           <mxGeometry x="10" y="270" width="160" height="31.75" as="geometry" />
         </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-13" value="Parts PKW_FCEV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
-          <mxGeometry x="500" y="490.52" width="180" height="229.48" as="geometry">
+        <mxCell id="IbhhdNptZylNwDZ19wqC-28" value="Traction Motor, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-7">
+          <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IbhhdNptZylNwDZ19wqC-29" value="&lt;div&gt;Parts PKW_FCEV&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
+          <mxGeometry x="380" y="470" width="180" height="390" as="geometry">
             <mxRectangle x="-80" y="490.52" width="170" height="164.75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-14" value="Chassis, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-13">
-          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
+        <mxCell id="IbhhdNptZylNwDZ19wqC-30" value="Chassis, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
+          <mxGeometry x="10" y="70" width="160" height="31.75" as="geometry" />
         </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-15" value="Powertrain, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-13">
-          <mxGeometry x="10" y="70" width="160" height="30.87" as="geometry" />
-        </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-16" value="Body-system, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-13">
+        <mxCell id="IbhhdNptZylNwDZ19wqC-32" value="Body-system, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
           <mxGeometry x="10" y="28.25" width="160" height="31.75" as="geometry" />
         </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-17" value="Transmission, PKW_FCEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-13">
+        <mxCell id="IbhhdNptZylNwDZ19wqC-33" value="Transmission, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
+          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IbhhdNptZylNwDZ19wqC-34" value="Electric Controller PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
+          <mxGeometry x="10" y="190" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IbhhdNptZylNwDZ19wqC-35" value="Pb-Battery, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
+          <mxGeometry x="10" y="310" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IbhhdNptZylNwDZ19wqC-36" value="Li-Ion Battery, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
+          <mxGeometry x="10" y="350" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IbhhdNptZylNwDZ19wqC-37" value="Traction Motor, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
           <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
         </mxCell>
-        <mxCell id="IbhhdNptZylNwDZ19wqC-18" value="Pb-Battery, PKW_FCEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-13">
-          <mxGeometry x="10" y="189.48000000000002" width="160" height="31.75" as="geometry" />
+        <mxCell id="IbhhdNptZylNwDZ19wqC-38" value="Fuel Stack, PKW_FCEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
+          <mxGeometry x="10" y="230" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IbhhdNptZylNwDZ19wqC-39" value="Fuel Cell Auxiliaries, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IbhhdNptZylNwDZ19wqC-29">
+          <mxGeometry x="10" y="270" width="160" height="31.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
