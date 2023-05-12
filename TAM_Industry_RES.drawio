@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T10:28:51.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="lVG-SFIK9qDBbClTCUe-" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-12T10:30:56.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="a1_xTPVHwZGGTdCjHk8A" version="21.2.9" type="github" pages="8">
   <diagram name="IAT_Automobile_v2" id="cFXwXDlHmTeH0bddKjDf">
     <mxGraphModel dx="1644" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1334,7 +1334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IAT_Automobile_v3" id="PEJ8uL3NC9iXljg9knLy">
-    <mxGraphModel dx="1644" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aGgSfm5aTbG6A3sInM-m-0" />
         <mxCell id="aGgSfm5aTbG6A3sInM-m-1" parent="aGgSfm5aTbG6A3sInM-m-0" />
@@ -2143,6 +2143,23 @@
               <mxPoint x="140" y="210" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t5TELH3TRGzKAeCvR44F-31" value="Parts Production" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aGgSfm5aTbG6A3sInM-m-1">
+          <mxGeometry x="-80" y="490.52" width="180" height="198.95" as="geometry">
+            <mxRectangle x="-632" y="201.05" width="170" height="164.75" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5TELH3TRGzKAeCvR44F-32" value="Parts Production, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
+          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="t5TELH3TRGzKAeCvR44F-33" value="Chassis, PKW_PHEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
+          <mxGeometry x="10" y="70" width="160" height="30.87" as="geometry" />
+        </mxCell>
+        <mxCell id="t5TELH3TRGzKAeCvR44F-34" value="Body-system, PKW_ICEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
+          <mxGeometry x="10" y="28.25" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="t5TELH3TRGzKAeCvR44F-35" value="Parts Production, PKW_FCEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t5TELH3TRGzKAeCvR44F-31">
+          <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
