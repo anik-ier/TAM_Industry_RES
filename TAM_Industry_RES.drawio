@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T17:28:31.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="hY8jCONW8sXBvdrWjAd0" version="21.6.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-07-23T17:32:21.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="9-w6F_Mwj068cfcnB2t5" version="21.6.5" type="github" pages="10">
   <diagram name="IAT_Automobile_v4" id="QB6WM8we_csSOmjtrFhr">
     <mxGraphModel dx="1884" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3869,7 +3869,7 @@
             <mxPoint x="-360" y="-194.66666666666652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7J7X1qhBzr8u5HmNybY-8" value="Ind. Proc. CC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2dEiQrG-eZ0OhBPyAFhe-1">
+        <mxCell id="G7J7X1qhBzr8u5HmNybY-8" value="Industry Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2dEiQrG-eZ0OhBPyAFhe-1">
           <mxGeometry x="-500" y="-210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G7J7X1qhBzr8u5HmNybY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="2dEiQrG-eZ0OhBPyAFhe-1" source="G7J7X1qhBzr8u5HmNybY-9">
@@ -4045,14 +4045,14 @@
         <mxCell id="JygtJcb8JTXhgHZaf-pt-11" value="Direct CO2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="-670" y="-350" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-4" value="CCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JygtJcb8JTXhgHZaf-pt-11">
-          <mxGeometry x="10" y="30" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JygtJcb8JTXhgHZaf-pt-2" value="BECCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JygtJcb8JTXhgHZaf-pt-11">
           <mxGeometry x="10" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JygtJcb8JTXhgHZaf-pt-6" value="DACCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JygtJcb8JTXhgHZaf-pt-11">
           <mxGeometry x="10" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JygtJcb8JTXhgHZaf-pt-18" value="Industry process emission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JygtJcb8JTXhgHZaf-pt-11">
+          <mxGeometry x="10" y="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JygtJcb8JTXhgHZaf-pt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JygtJcb8JTXhgHZaf-pt-12">
           <mxGeometry relative="1" as="geometry">
@@ -4076,17 +4076,6 @@
         </mxCell>
         <mxCell id="JygtJcb8JTXhgHZaf-pt-12" value="Conventional Processes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="-430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JygtJcb8JTXhgHZaf-pt-18" target="JygtJcb8JTXhgHZaf-pt-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-20" value="CO2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JygtJcb8JTXhgHZaf-pt-19">
-          <mxGeometry x="-0.2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-18" value="Industry process emission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="-320" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JygtJcb8JTXhgHZaf-pt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JygtJcb8JTXhgHZaf-pt-21" target="JygtJcb8JTXhgHZaf-pt-28">
           <mxGeometry relative="1" as="geometry" />
