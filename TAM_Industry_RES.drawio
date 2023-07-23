@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T09:03:32.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MU4_ZGxffvs_gcgKv9S9" version="21.6.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-07-23T11:57:25.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="dGX0H3qEjpEmuXr0ivR7" version="21.6.5" type="github" pages="10">
   <diagram name="IAT_Automobile_v4" id="QB6WM8we_csSOmjtrFhr">
     <mxGraphModel dx="1644" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1548,9 +1548,9 @@
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-123" value="" style="group" parent="Fdx0WKeCHca2oFj8SRoV-1" vertex="1" connectable="0">
           <mxGeometry x="30" y="440" width="290" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Fdx0WKeCHca2oFj8SRoV-124" value="Painting_01" style="swimlane;whiteSpace=wrap;html=1;" parent="Fdx0WKeCHca2oFj8SRoV-123" vertex="1" collapsed="1">
-          <mxGeometry x="110" width="170" height="160" as="geometry">
-            <mxRectangle x="110" width="180" height="200" as="alternateBounds" />
+        <mxCell id="Fdx0WKeCHca2oFj8SRoV-124" value="Painting_01" style="swimlane;whiteSpace=wrap;html=1;" parent="Fdx0WKeCHca2oFj8SRoV-123" vertex="1">
+          <mxGeometry x="110" width="180" height="200" as="geometry">
+            <mxRectangle x="110" width="170" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-125" value="Painting, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Fdx0WKeCHca2oFj8SRoV-124" vertex="1">
@@ -1772,9 +1772,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fdx0WKeCHca2oFj8SRoV-153" value="Assembly&amp;amp;Others_01" style="swimlane;whiteSpace=wrap;html=1;" parent="Fdx0WKeCHca2oFj8SRoV-152" vertex="1" collapsed="1">
-          <mxGeometry x="152" width="170" height="158.95" as="geometry">
-            <mxRectangle x="152" width="180" height="198.95" as="alternateBounds" />
+        <mxCell id="Fdx0WKeCHca2oFj8SRoV-153" value="Assembly&amp;amp;Others_01" style="swimlane;whiteSpace=wrap;html=1;" parent="Fdx0WKeCHca2oFj8SRoV-152" vertex="1">
+          <mxGeometry x="152" width="180" height="198.95" as="geometry">
+            <mxRectangle x="152" width="170" height="158.95" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-154" value="Assembly, PKW_BEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Fdx0WKeCHca2oFj8SRoV-153" vertex="1">
