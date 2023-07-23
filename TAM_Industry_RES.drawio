@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T08:30:49.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="lgPKN4lKV1TZKydRJIZv" version="21.6.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-07-23T08:31:13.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Hkwa48U7GqIxoVx_290o" version="21.6.5" type="github" pages="10">
   <diagram name="IAT_Automobile_v4" id="QB6WM8we_csSOmjtrFhr">
     <mxGraphModel dx="1644" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3721,7 +3721,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITssSHnBrxaWyRp3RvTc-1" value="Iron&amp;amp;Steel Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="ITssSHnBrxaWyRp3RvTc-1" value="Iron&amp;amp;Steel Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ITssSHnBrxaWyRp3RvTc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ITssSHnBrxaWyRp3RvTc-3" target="ITssSHnBrxaWyRp3RvTc-38" edge="1">
@@ -3734,7 +3734,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITssSHnBrxaWyRp3RvTc-3" value="Automobile Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="ITssSHnBrxaWyRp3RvTc-3" value="Automobile Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ITssSHnBrxaWyRp3RvTc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ITssSHnBrxaWyRp3RvTc-6" target="ITssSHnBrxaWyRp3RvTc-40" edge="1">
@@ -3755,7 +3755,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITssSHnBrxaWyRp3RvTc-6" value="Chemical Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="ITssSHnBrxaWyRp3RvTc-6" value="Chemical Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ITssSHnBrxaWyRp3RvTc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ITssSHnBrxaWyRp3RvTc-8" target="ITssSHnBrxaWyRp3RvTc-6" edge="1">
