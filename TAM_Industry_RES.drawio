@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T12:04:28.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="RYjslSDT3iawpFdMOqg6" version="21.6.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-07-23T12:07:09.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="0v-ipNEy2RvBgC1UZ8Wj" version="21.6.5" type="github" pages="10">
   <diagram name="IAT_Automobile_v4" id="QB6WM8we_csSOmjtrFhr">
     <mxGraphModel dx="1644" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1210,7 +1210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-45" value="" style="group" parent="Fdx0WKeCHca2oFj8SRoV-1" vertex="1" connectable="0">
-          <mxGeometry x="70" y="140" width="70" height="300" as="geometry" />
+          <mxGeometry x="70" y="140" width="130.15" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-46" value="" style="group" parent="Fdx0WKeCHca2oFj8SRoV-45" vertex="1" connectable="0">
           <mxGeometry x="-10" y="55.15695067264575" width="40" height="243.7508788925173" as="geometry" />
@@ -1229,9 +1229,6 @@
             <mxPoint x="30" y="580" as="sourcePoint" />
             <mxPoint x="30" y="60.93654786643959" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Fdx0WKeCHca2oFj8SRoV-50" value="Nat. Gas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="Fdx0WKeCHca2oFj8SRoV-45" vertex="1">
-          <mxGeometry y="19.997243636818187" width="60" height="4.687426758956891" as="geometry" />
         </mxCell>
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-51" value="" style="group" parent="Fdx0WKeCHca2oFj8SRoV-1" vertex="1" connectable="0">
           <mxGeometry x="445" y="199.99" width="40" height="240.01" as="geometry" />
@@ -2051,6 +2048,9 @@
         </mxCell>
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-195" value="Parts Production, PKW_FCEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Fdx0WKeCHca2oFj8SRoV-191" vertex="1">
           <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Fdx0WKeCHca2oFj8SRoV-50" value="Fossil fules (natgass, oil, coal)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="Fdx0WKeCHca2oFj8SRoV-1" vertex="1">
+          <mxGeometry x="10.149999999999999" y="100" width="190" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
