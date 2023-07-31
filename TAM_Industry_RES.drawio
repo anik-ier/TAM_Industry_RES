@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T11:30:53.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SQpyFKb_0ndHrc1g37yN" version="21.6.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-31T11:39:22.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="aH-yWjUas7bJKJQvvsu_" version="21.6.5" type="github" pages="11">
   <diagram name="IAT_Automobile_v4" id="QB6WM8we_csSOmjtrFhr">
     <mxGraphModel dx="2524" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6729,7 +6729,7 @@
             <mxPoint x="-213" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dItg6B3CY89CKqcA99Ni-2" value="Iron &amp;amp; Steel Production process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dItg6B3CY89CKqcA99Ni-2" value="Blast Furnace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-393" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aY5dFnHTl5h5c9CVPWAZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="aY5dFnHTl5h5c9CVPWAZ-3">
@@ -6802,6 +6802,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-213" y="205" as="sourcePoint" />
             <mxPoint x="-213" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hx5vqMY_0qTIuzZvK0H-43" value="CO2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aY5dFnHTl5h5c9CVPWAZ-18">
+          <mxGeometry x="0.0083" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aY5dFnHTl5h5c9CVPWAZ-19" value="CO2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
@@ -6956,7 +6961,7 @@
         </mxCell>
         <mxCell id="7hx5vqMY_0qTIuzZvK0H-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="1" source="dItg6B3CY89CKqcA99Ni-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-433" y="330" as="targetPoint" />
+            <mxPoint x="-428" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aY5dFnHTl5h5c9CVPWAZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="1" source="aY5dFnHTl5h5c9CVPWAZ-7">
