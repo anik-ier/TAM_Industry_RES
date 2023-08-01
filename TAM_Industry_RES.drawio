@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T14:59:38.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ycVe_wGLo9NXptYB_uas" version="21.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-08-01T15:08:42.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="OC_LmAQUUVdB0yiYLRJc" version="21.6.6" type="github" pages="12">
   <diagram name="IAT_Automobile_v4" id="QB6WM8we_csSOmjtrFhr">
     <mxGraphModel dx="2899" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2229,17 +2229,29 @@
         <mxCell id="cqLMBQqLTT0xPBJkmjuM-9" value="H2/Synfuel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="Fdx0WKeCHca2oFj8SRoV-1" vertex="1">
           <mxGeometry x="410" y="150" width="46" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="vuHBeyh60omViw84dW4Q-12" value="Parts production Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+        <mxCell id="vuHBeyh60omViw84dW4Q-12" value="Parts production Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
           <mxGeometry x="-630" y="144" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vuHBeyh60omViw84dW4Q-13" value="Welding Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+        <mxCell id="vuHBeyh60omViw84dW4Q-13" value="Welding Processed by Vehicle drive type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
           <mxGeometry x="-260" y="138" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vuHBeyh60omViw84dW4Q-14" value="Painting Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+        <mxCell id="vuHBeyh60omViw84dW4Q-14" value="Painting Processed by Vehicle drive type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
           <mxGeometry x="145" y="137.17000000000002" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vuHBeyh60omViw84dW4Q-15" value="Assembly Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+        <mxCell id="vuHBeyh60omViw84dW4Q-15" value="Assembly Processed by Vehicle drive type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
           <mxGeometry x="530" y="139.44" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="-444.75" y="80" width="124.75" height="114.43" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-18" value="Parts by Vehicle drive type" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="-465.5" y="36.56" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-19" value="Complete Vehicle (Demand) by drive type" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="710" y="36.56" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="730" y="102.05" width="110" height="87.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
