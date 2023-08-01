@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T14:54:04.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="p1PSfHY9t2kFLO1CDhI5" version="21.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-08-01T14:59:38.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ycVe_wGLo9NXptYB_uas" version="21.6.6" type="github" pages="12">
   <diagram name="IAT_Automobile_v4" id="QB6WM8we_csSOmjtrFhr">
     <mxGraphModel dx="2899" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1053,7 +1053,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IAT_Automobile_v5" id="HJjhQ7SkzqfePROTFAc4">
-    <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3387" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-0" />
         <mxCell id="Fdx0WKeCHca2oFj8SRoV-1" parent="Fdx0WKeCHca2oFj8SRoV-0" />
@@ -2228,6 +2228,18 @@
         </mxCell>
         <mxCell id="cqLMBQqLTT0xPBJkmjuM-9" value="H2/Synfuel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="Fdx0WKeCHca2oFj8SRoV-1" vertex="1">
           <mxGeometry x="410" y="150" width="46" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-12" value="Parts production Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="-630" y="144" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-13" value="Welding Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="-260" y="138" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-14" value="Painting Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="145" y="137.17000000000002" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vuHBeyh60omViw84dW4Q-15" value="Assembly Processed by Vehicle type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="Fdx0WKeCHca2oFj8SRoV-1">
+          <mxGeometry x="530" y="139.44" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
