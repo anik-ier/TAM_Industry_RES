@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T13:08:12.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="LEGtmtNoB-BFqES8Ba4F" version="21.7.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-09-11T13:16:43.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="OeJ2fRsJ5fiC2r3Dq1Pl" version="21.7.4" type="github" pages="12">
   <diagram name="Automobile_SEDOS" id="R0awgbiVGRhSQOzEMSeQ">
     <mxGraphModel dx="3387" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -731,18 +731,6 @@
         <mxCell id="sth8MNaM1aAZPBN2UfDE-218" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
           <mxGeometry x="730" y="52.05" width="110" height="87.95" as="geometry" />
         </mxCell>
-        <mxCell id="N1KwIX9uYTAElEUjiZ2_-13" value="Furnace, HFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
-          <mxGeometry x="-880" y="275.88" width="160" height="31.75" as="geometry" />
-        </mxCell>
-        <mxCell id="N1KwIX9uYTAElEUjiZ2_-14" value="Furnace, Biomass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
-          <mxGeometry x="-880" y="318.62" width="160" height="31.75" as="geometry" />
-        </mxCell>
-        <mxCell id="N1KwIX9uYTAElEUjiZ2_-15" value="Furnace, Electric" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
-          <mxGeometry x="-880" y="365.88" width="160" height="31.75" as="geometry" />
-        </mxCell>
-        <mxCell id="N1KwIX9uYTAElEUjiZ2_-7" value="Furnace, natgas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
-          <mxGeometry x="-880" y="230" width="160" height="31.75" as="geometry" />
-        </mxCell>
         <mxCell id="N1KwIX9uYTAElEUjiZ2_-17" value="Boiler, HFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
           <mxGeometry x="-440.5" y="518.25" width="160" height="31.75" as="geometry" />
         </mxCell>
@@ -808,6 +796,29 @@
         </mxCell>
         <mxCell id="N1KwIX9uYTAElEUjiZ2_-43" value="space heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
           <mxGeometry x="420" y="97.88" width="70" height="20.68" as="geometry" />
+        </mxCell>
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-44" value="" style="group" vertex="1" connectable="0" parent="sth8MNaM1aAZPBN2UfDE-1">
+          <mxGeometry x="-1020" y="431.05" width="355" height="198.95" as="geometry" />
+        </mxCell>
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-47" value="" style="group" vertex="1" connectable="0" parent="N1KwIX9uYTAElEUjiZ2_-44">
+          <mxGeometry x="130" width="225" height="198.95" as="geometry" />
+        </mxCell>
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-52" value="Furnace_00" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="N1KwIX9uYTAElEUjiZ2_-47">
+          <mxGeometry width="180" height="198.95" as="geometry">
+            <mxRectangle width="170" height="68.95" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-53" value="Furnace, Biomass" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="N1KwIX9uYTAElEUjiZ2_-52">
+          <mxGeometry x="10" y="110" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-54" value="Furnace, HFO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="N1KwIX9uYTAElEUjiZ2_-52">
+          <mxGeometry x="10" y="70" width="160" height="30.87" as="geometry" />
+        </mxCell>
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-55" value="Furnace, natgas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="N1KwIX9uYTAElEUjiZ2_-52">
+          <mxGeometry x="10" y="28.25" width="160" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-56" value="Furnace, Electric" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="N1KwIX9uYTAElEUjiZ2_-52">
+          <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
