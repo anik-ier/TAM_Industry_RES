@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T15:09:22.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="MtRN9ervw3BfOjfpOUy-" version="21.7.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-09-11T15:11:14.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="g1l1nIIFlHpJfB70anpw" version="21.7.4" type="github" pages="13">
   <diagram name="Automobile_SEDOS" id="R0awgbiVGRhSQOzEMSeQ">
     <mxGraphModel dx="3387" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="sth8MNaM1aAZPBN2UfDE-22" value="exo_automobile_pc_fcev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
           <mxGeometry x="770" y="223.06" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sth8MNaM1aAZPBN2UfDE-23" value="Assembly &amp;amp; Others, existing &amp;amp; new" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
-          <mxGeometry x="560" y="761.54" width="140" height="120" as="geometry">
+        <mxCell id="sth8MNaM1aAZPBN2UfDE-23" value="Assembly &amp;amp; Others, existing &amp;amp; new" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
+          <mxGeometry x="560" y="761.8" width="140" height="120" as="geometry">
             <mxRectangle x="-547" y="880" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -150,7 +150,7 @@
             <mxPoint x="20" y="-0.5017086209880769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sth8MNaM1aAZPBN2UfDE-40" value="Elec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
+        <mxCell id="sth8MNaM1aAZPBN2UfDE-40" value="sec-elec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
           <mxGeometry x="457.5" y="277.25" width="60" height="25.88" as="geometry" />
         </mxCell>
         <mxCell id="sth8MNaM1aAZPBN2UfDE-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="sth8MNaM1aAZPBN2UfDE-1">
@@ -825,8 +825,8 @@
             <mxPoint x="454.5" y="319.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N1KwIX9uYTAElEUjiZ2_-43" value="space heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
-          <mxGeometry x="420" y="267.88" width="70" height="20.68" as="geometry" />
+        <mxCell id="N1KwIX9uYTAElEUjiZ2_-43" value="iip_space_heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="sth8MNaM1aAZPBN2UfDE-1">
+          <mxGeometry x="420" y="261.12" width="70" height="20.68" as="geometry" />
         </mxCell>
         <mxCell id="TbaeLI3pOhZ_DZOHN7BH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="sth8MNaM1aAZPBN2UfDE-1" source="TbaeLI3pOhZ_DZOHN7BH-1">
           <mxGeometry relative="1" as="geometry">
