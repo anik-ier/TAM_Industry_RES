@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T13:31:09.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="l3X6hXXg4ChLgjwJych7" version="22.1.16" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-03T13:33:17.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="NGfjriXC7f_MFTNoxVzC" version="22.1.16" type="github" pages="8">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1980,7 +1980,7 @@
         <mxCell id="qGYBssid4-hHYuwECvM9-52" value="Methanol synth. Biomass Gassification" style="rounded=0;whiteSpace=wrap;html=1;" parent="qGYBssid4-hHYuwECvM9-48" vertex="1">
           <mxGeometry x="150" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qGYBssid4-hHYuwECvM9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="qGYBssid4-hHYuwECvM9-48" source="qGYBssid4-hHYuwECvM9-52" edge="1">
+        <mxCell id="qGYBssid4-hHYuwECvM9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="qGYBssid4-hHYuwECvM9-48" source="qGYBssid4-hHYuwECvM9-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="573" y="38" as="targetPoint" />
           </mxGeometry>
@@ -2100,7 +2100,7 @@
             <mxPoint x="109" y="284.06241379310336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGYBssid4-hHYuwECvM9-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" parent="qGYBssid4-hHYuwECvM9-79" source="qGYBssid4-hHYuwECvM9-85" edge="1">
+        <mxCell id="qGYBssid4-hHYuwECvM9-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="qGYBssid4-hHYuwECvM9-79" source="qGYBssid4-hHYuwECvM9-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323" y="308.06241379310336" as="targetPoint" />
           </mxGeometry>
@@ -2139,7 +2139,7 @@
             <mxPoint x="-14" y="-412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGYBssid4-hHYuwECvM9-93" value="feedstock_methanol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="qGYBssid4-hHYuwECvM9-1" vertex="1">
+        <mxCell id="qGYBssid4-hHYuwECvM9-93" value="feedstock_methanol" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="qGYBssid4-hHYuwECvM9-1" vertex="1">
           <mxGeometry x="-343" y="-603" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGYBssid4-hHYuwECvM9-94" value="" style="endArrow=none;html=1;rounded=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qGYBssid4-hHYuwECvM9-1" target="qGYBssid4-hHYuwECvM9-105" edge="1">
