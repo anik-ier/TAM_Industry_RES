@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T13:26:02.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="mKlWk_n4hJTPHbyp7IKg" version="22.1.16" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-03T13:31:09.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="l3X6hXXg4ChLgjwJych7" version="22.1.16" type="github" pages="8">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1922,16 +1922,6 @@
             <mxPoint x="451" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGYBssid4-hHYuwECvM9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="qGYBssid4-hHYuwECvM9-32" source="qGYBssid4-hHYuwECvM9-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="494" y="47" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="47" />
-              <mxPoint x="343" y="47" />
-              <mxPoint x="343" y="48" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qGYBssid4-hHYuwECvM9-39" value="" style="group" parent="qGYBssid4-hHYuwECvM9-25" vertex="1" connectable="0">
           <mxGeometry x="58" y="36" width="210" height="60" as="geometry" />
         </mxCell>
@@ -2016,11 +2006,6 @@
         <mxCell id="qGYBssid4-hHYuwECvM9-58" value="Methanol synth. Partial Oxidization" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="qGYBssid4-hHYuwECvM9-54" vertex="1">
           <mxGeometry x="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qGYBssid4-hHYuwECvM9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="qGYBssid4-hHYuwECvM9-54" source="qGYBssid4-hHYuwECvM9-58" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="38" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qGYBssid4-hHYuwECvM9-60" value="" style="group" parent="qGYBssid4-hHYuwECvM9-25" vertex="1" connectable="0">
           <mxGeometry x="148" y="159" width="250" height="50" as="geometry" />
         </mxCell>
@@ -2066,7 +2051,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qGYBssid4-hHYuwECvM9-71" value="feedstock_biomass" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="qGYBssid4-hHYuwECvM9-69" vertex="1">
-          <mxGeometry x="-74" width="136" height="29.4375" as="geometry" />
+          <mxGeometry x="-68" y="6" width="124" height="29.44" as="geometry" />
         </mxCell>
         <mxCell id="qGYBssid4-hHYuwECvM9-72" value="" style="group" parent="qGYBssid4-hHYuwECvM9-25" vertex="1" connectable="0">
           <mxGeometry x="3" y="-248" width="143" height="458" as="geometry" />
