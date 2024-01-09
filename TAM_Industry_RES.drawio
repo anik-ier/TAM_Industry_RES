@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T09:54:53.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="jkSkG3y85g4dmj4_SRg5" version="22.1.16" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-09T09:55:47.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="iDtBWtsqtJMPktQcsvDT" version="22.1.16" type="github" pages="8">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3387" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1022,6 +1022,12 @@
             <Array as="points">
               <mxPoint x="114" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJD6v1MFxuf-tn5zIcpl-4" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;jumpStyle=sharp;" edge="1" parent="kZ7kAfA1LF7ZT7AkLQeV-203">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="152" y="80.00999999999999" as="sourcePoint" />
+            <mxPoint x="72" y="80.00999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" edge="1">
