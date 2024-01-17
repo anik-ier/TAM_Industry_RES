@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T10:46:31.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="qUSsGuuOgV0xEJ4lbmQX" version="22.1.17" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-17T10:49:28.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="VA1FnPAzjJONISvffuet" version="22.1.17" type="github" pages="9">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1094,8 +1094,8 @@
         </mxCell>
         <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-170" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;dashed=1;dashPattern=8 8;jumpStyle=sharp;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-660" y="810" as="sourcePoint" />
-            <mxPoint x="-182" y="808" as="targetPoint" />
+            <mxPoint x="-658" y="807.92" as="sourcePoint" />
+            <mxPoint x="-180" y="805.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jJD6v1MFxuf-tn5zIcpl-2" value="iip_automobile_battery_pc (ICEV, PHEV, BEV, FCEV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
@@ -1105,6 +1105,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="203" y="840" as="sourcePoint" />
             <mxPoint x="206" y="319.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbSO3RtTfkSawEWhTLmB-0" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;dashed=1;dashPattern=8 8;jumpStyle=sharp;" edge="1" parent="kZ7kAfA1LF7ZT7AkLQeV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-330" y="820" as="sourcePoint" />
+            <mxPoint x="201" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
