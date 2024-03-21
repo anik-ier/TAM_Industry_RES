@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T10:57:24.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="mzGkJZO5ilwKzz3x8Syb" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-21T10:59:40.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="iAHEF_xpQLADpigDFTF8" version="24.0.7" type="github" pages="9">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="2456" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2722,8 +2722,8 @@
             <mxPoint x="434.57" y="319.98999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-1" value="iip_chemical_others_process_heat" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;direction=east;" vertex="1" parent="6JHBup4Or1-HCsspioyq-26">
-          <mxGeometry x="78.00000000000009" y="424.06000000000006" width="149.68" height="30" as="geometry" />
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-1" value="iip_chemical_others_steam" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;direction=east;" vertex="1" parent="6JHBup4Or1-HCsspioyq-26">
+          <mxGeometry x="78.00000000000009" y="414.06000000000006" width="149.68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2980,93 +2980,93 @@
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" source="jhT7C__ZHojrYRDKGaTH-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="627" y="-304.73" as="targetPoint" />
+            <mxPoint x="319" y="-304.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-8" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;other_0&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
-          <mxGeometry x="456.25" y="-344.73" width="132.5" height="80" as="geometry" />
+          <mxGeometry x="148.25" y="-344.73" width="132.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-9" value="exo_chemical_others" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
-          <mxGeometry x="567" y="-474.72999999999996" width="124" height="20.48" as="geometry" />
+          <mxGeometry x="259" y="-474.72999999999996" width="124" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="629" y="-184.72999999999996" as="sourcePoint" />
-            <mxPoint x="628.5" y="-391.87380952380965" as="targetPoint" />
+            <mxPoint x="321" y="-184.72999999999996" as="sourcePoint" />
+            <mxPoint x="320.5" y="-391.87380952380965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-13" value="iip_chemical_others_machine_drive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
-          <mxGeometry x="330.5" y="-492.75" width="198" height="17.94" as="geometry" />
+          <mxGeometry x="22.5" y="-492.75" width="198" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-14" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="427" y="-184.72999999999996" as="sourcePoint" />
-            <mxPoint x="428.5" y="-390.9789719626168" as="targetPoint" />
+            <mxPoint x="119" y="-184.72999999999996" as="sourcePoint" />
+            <mxPoint x="120.5" y="-390.9789719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-15" value="iip_chemical_others_electro_chem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
-          <mxGeometry x="309.88" y="-489.63" width="191.75" height="17.94" as="geometry" />
+          <mxGeometry x="1.8799999999999955" y="-489.63" width="191.75" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-16" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="403" y="-184.72999999999996" as="sourcePoint" />
-            <mxPoint x="404.75" y="-390.9789719626168" as="targetPoint" />
+            <mxPoint x="95" y="-184.72999999999996" as="sourcePoint" />
+            <mxPoint x="96.75" y="-390.9789719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-17" value="iip_chemical_others_processes_others" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
-          <mxGeometry x="278.75" y="-500" width="212.5" height="17.94" as="geometry" />
+          <mxGeometry x="-29.25" y="-500" width="212.5" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-18" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="383" y="-184.72999999999996" as="sourcePoint" />
-            <mxPoint x="384" y="-390.9789719626168" as="targetPoint" />
+            <mxPoint x="75" y="-184.72999999999996" as="sourcePoint" />
+            <mxPoint x="76" y="-390.9789719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-19" value="iip_chemical_others_process_heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
-          <mxGeometry x="271" y="-489.25" width="191" height="17.94" as="geometry" />
+          <mxGeometry x="-37" y="-489.25" width="191" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-20" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364" y="-184.72999999999996" as="sourcePoint" />
-            <mxPoint x="365.5" y="-390.9789719626168" as="targetPoint" />
+            <mxPoint x="56" y="-184.72999999999996" as="sourcePoint" />
+            <mxPoint x="57.5" y="-390.9789719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-21" value="iip_chemical_others_steam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
-          <mxGeometry x="272.5" y="-468.75" width="150" height="17.94" as="geometry" />
+          <mxGeometry x="-35.5" y="-468.75" width="150" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-22" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="345" y="-184.72999999999996" as="sourcePoint" />
-            <mxPoint x="346.5" y="-390.9789719626168" as="targetPoint" />
+            <mxPoint x="37" y="-184.72999999999996" as="sourcePoint" />
+            <mxPoint x="38.5" y="-390.9789719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" source="jhT7C__ZHojrYRDKGaTH-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407" y="-324.73" as="targetPoint" />
+            <mxPoint x="99" y="-324.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" source="jhT7C__ZHojrYRDKGaTH-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="387" y="-304.73" as="targetPoint" />
+            <mxPoint x="79" y="-304.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" source="jhT7C__ZHojrYRDKGaTH-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="367" y="-284.73" as="targetPoint" />
+            <mxPoint x="59" y="-284.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" source="jhT7C__ZHojrYRDKGaTH-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="347" y="-264.73" as="targetPoint" />
+            <mxPoint x="39" y="-264.73" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="402" y="-264.73" />
-              <mxPoint x="402" y="-263.73" />
+              <mxPoint x="94" y="-264.73" />
+              <mxPoint x="94" y="-263.73" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" source="jhT7C__ZHojrYRDKGaTH-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="427" y="-344.73" as="targetPoint" />
+            <mxPoint x="119" y="-344.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
