@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:26:58.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-BXLa5uHtRGC6yGOfCbl" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-21T11:27:17.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="ecfRe3Ky1UgqaT-kddH0" version="24.0.7" type="github" pages="9">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="2494" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2975,7 +2975,7 @@
             <mxPoint x="193" y="37.67000000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8_ORpIxkn7bd3ZBtCEl-1" value="iip_chemical_others_steam" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="w8_ORpIxkn7bd3ZBtCEl-1" value="iip_chemical_others_steam" style="text;html=1;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;strokeColor=#b85450;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-489.02" y="-547.54" width="149.68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" source="jhT7C__ZHojrYRDKGaTH-8">
@@ -3022,7 +3022,7 @@
             <mxPoint x="76" y="-390.9789719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-19" value="iip_chemical_others_process_heat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-19" value="iip_chemical_others_process_heat" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry x="-37" y="-489.25" width="191" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-20" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-19">
@@ -3031,7 +3031,7 @@
             <mxPoint x="57.5" y="-390.9789719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-21" value="iip_chemical_others_steam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-21" value="iip_chemical_others_steam" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry x="-35.5" y="-468.75" width="150" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-22" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-21">
