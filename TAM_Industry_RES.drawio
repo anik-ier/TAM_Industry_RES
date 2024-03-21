@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:27:17.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="ecfRe3Ky1UgqaT-kddH0" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-21T11:28:36.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="O9Ib-UYAEXWIFxpZnthO" version="24.0.7" type="github" pages="9">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="2494" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -763,8 +763,8 @@
         <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-167" value="iip_hot_water" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
           <mxGeometry x="-212.5" y="265" width="60" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-168" value="iip_steam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
-          <mxGeometry x="-192.5" y="267.88" width="60" height="19.34" as="geometry" />
+        <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-168" value="iip_automobile_steam" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
+          <mxGeometry x="-213.75" y="246.63" width="102.5" height="19.34" as="geometry" />
         </mxCell>
         <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-171" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;dashed=1;dashPattern=8 8;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1110,8 +1110,8 @@
             <mxPoint x="201" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-115" value="iip_automobile_steam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
-          <mxGeometry x="-740" y="243.98" width="72" height="21.54" as="geometry" />
+        <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-115" value="iip_automobile_steam" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
+          <mxGeometry x="-762" y="237.98" width="116" height="21.54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
