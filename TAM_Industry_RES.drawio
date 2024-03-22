@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T08:51:12.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="wCXOYGotDODGyAlwuC8D" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-22T08:52:54.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="vcj1Y6-tJ0fD6EFVoDeU" version="24.0.7" type="github" pages="9">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2020,6 +2020,36 @@
         </mxCell>
         <mxCell id="cK9pGvB3wZTkUULrM335-109" value="sec_hydrogen" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-140" y="-450.81" width="80.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54" y="-180" as="sourcePoint" />
+            <mxPoint x="200" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-170" as="sourcePoint" />
+            <mxPoint x="176" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="-160" as="sourcePoint" />
+            <mxPoint x="156" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-7.5" y="-150" as="sourcePoint" />
+            <mxPoint x="138.5" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="-140" as="sourcePoint" />
+            <mxPoint x="116" y="-140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
