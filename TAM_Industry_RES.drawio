@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T08:57:21.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="9uOyWVPbuYsAChUrh2HZ" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-22T09:29:43.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="raOGU9Ca49l21JbuplFR" version="24.0.7" type="github" pages="9">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1114,7 +1114,7 @@
           <mxGeometry x="153.01000000000005" y="229.99999999999997" width="154.66" height="20.68" as="geometry" />
         </mxCell>
         <mxCell id="EKRmYqP8eYDi4xGABwGX-0" value="&lt;div&gt;iip_automobile_heat_proc- (400-1250 C)&lt;/div&gt;&lt;div&gt;iip_automobile_steam- (110-200 C)&lt;/div&gt;&lt;div&gt;iip_automobile_hot_water (upto 60 C)&lt;/div&gt;&lt;div&gt;iip_automobiöe_space_heat (upto 60 C)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kZ7kAfA1LF7ZT7AkLQeV-1">
-          <mxGeometry x="-1060" y="40" width="250" height="60" as="geometry" />
+          <mxGeometry x="-642.5" y="900" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2024,31 +2024,31 @@
         <mxCell id="cK9pGvB3wZTkUULrM335-109" value="sec_hydrogen" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-140" y="-450.81" width="80.66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-0" value="" style="endArrow=oval;dashed=1;html=1;rounded=0;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="54" y="-180" as="sourcePoint" />
             <mxPoint x="200" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-1" value="" style="endArrow=oval;dashed=1;html=1;rounded=0;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="-170" as="sourcePoint" />
             <mxPoint x="176" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-2" value="" style="endArrow=oval;dashed=1;html=1;rounded=0;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="-160" as="sourcePoint" />
             <mxPoint x="156" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-3" value="" style="endArrow=oval;dashed=1;html=1;rounded=0;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-7.5" y="-150" as="sourcePoint" />
             <mxPoint x="138.5" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="cIuQX1KU5NJ-Hae_b0ax-4" value="" style="endArrow=oval;dashed=1;html=1;rounded=0;endFill=1;jumpStyle=sharp;" edge="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="-140" as="sourcePoint" />
             <mxPoint x="116" y="-140" as="targetPoint" />
