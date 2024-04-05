@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T10:00:34.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="cGJlFQDfFPirdO7D9Vn3" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-05T15:31:58.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="GlvrP05OF0ZpMFjDhLE5" version="24.0.7" type="github" pages="9">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
-    <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2494" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-0" />
         <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-1" parent="kZ7kAfA1LF7ZT7AkLQeV-0" />
@@ -1113,7 +1113,7 @@
         <mxCell id="kZ7kAfA1LF7ZT7AkLQeV-144" value="iip_automobile_space_heat" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
           <mxGeometry x="153.01000000000005" y="229.99999999999997" width="154.66" height="20.68" as="geometry" />
         </mxCell>
-        <mxCell id="EKRmYqP8eYDi4xGABwGX-0" value="&lt;div&gt;iip_automobile_heat_proc- (400-1250 C)&lt;/div&gt;&lt;div&gt;iip_automobile_steam- (110-200 C)&lt;/div&gt;&lt;div&gt;iip_automobile_hot_water (upto 60 C)&lt;/div&gt;&lt;div&gt;iip_automobiöe_space_heat (upto 60 C)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kZ7kAfA1LF7ZT7AkLQeV-1">
+        <mxCell id="EKRmYqP8eYDi4xGABwGX-0" value="&lt;div&gt;iip_automobile_heat_proc- (400-1250 C)&lt;/div&gt;&lt;div&gt;iip_automobile_steam- (110-200 C)&lt;/div&gt;&lt;div&gt;iip_automobile_hot_water (upto 60 C)&lt;/div&gt;&lt;div&gt;iip_automobiöe_space_heat (upto 60 C)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kZ7kAfA1LF7ZT7AkLQeV-1" vertex="1">
           <mxGeometry x="-642.5" y="900" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -5174,7 +5174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Dv81JEtw3t2O3ASeHwxO" name="TAM-Industry">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5268,10 +5268,10 @@
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-29" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="720" width="430" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="N2uYh4JxXh48xR4OmgcQ-30" value="Metalworking" style="rounded=0;whiteSpace=wrap;html=1;" parent="N2uYh4JxXh48xR4OmgcQ-29" vertex="1">
+        <mxCell id="N2uYh4JxXh48xR4OmgcQ-30" value="Other Non metallic minerals" style="rounded=0;whiteSpace=wrap;html=1;" parent="N2uYh4JxXh48xR4OmgcQ-29" vertex="1">
           <mxGeometry x="10" y="10" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N2uYh4JxXh48xR4OmgcQ-34" value="Machinery" style="rounded=0;whiteSpace=wrap;html=1;" parent="N2uYh4JxXh48xR4OmgcQ-29" vertex="1">
+        <mxCell id="N2uYh4JxXh48xR4OmgcQ-34" value="Other Non ferrous metals" style="rounded=0;whiteSpace=wrap;html=1;" parent="N2uYh4JxXh48xR4OmgcQ-29" vertex="1">
           <mxGeometry x="10" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-35" value="Other Chemicals" style="rounded=0;whiteSpace=wrap;html=1;" parent="N2uYh4JxXh48xR4OmgcQ-29" vertex="1">
