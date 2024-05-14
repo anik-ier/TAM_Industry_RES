@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T16:54:43.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Rd6yU2tCCYu_hnP_m3kf" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-14T16:58:07.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="1iFWvQDhSubUR4a_v2iv" version="24.4.0" type="github" pages="11">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4501,13 +4501,13 @@
         <mxCell id="0vG5bJOWklwrblSN6g8_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=3;strokeColor=#004000;" edge="1" parent="R9aY7uCxdMqTR_MswuXT-1" source="R9aY7uCxdMqTR_MswuXT-96" target="R9aY7uCxdMqTR_MswuXT-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-147" y="46" />
+              <mxPoint x="-175" y="46" />
               <mxPoint x="-714" y="46" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="R9aY7uCxdMqTR_MswuXT-96" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="R9aY7uCxdMqTR_MswuXT-1">
-          <mxGeometry x="-153" y="77" width="90" height="47" as="geometry" />
+          <mxGeometry x="-181" y="82" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="R9aY7uCxdMqTR_MswuXT-97" value="" style="group" vertex="1" connectable="0" parent="R9aY7uCxdMqTR_MswuXT-1">
           <mxGeometry x="-292" y="202" width="89" height="99" as="geometry" />
@@ -4619,6 +4619,20 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-800" y="116" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0vG5bJOWklwrblSN6g8_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;strokeWidth=3;strokeColor=#004000;" edge="1" parent="R9aY7uCxdMqTR_MswuXT-1" source="0vG5bJOWklwrblSN6g8_-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-714.5714285714287" y="213.09523809523807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vG5bJOWklwrblSN6g8_-21" value="" style="group" vertex="1" connectable="0" parent="R9aY7uCxdMqTR_MswuXT-1">
+          <mxGeometry x="-758" y="29" width="92" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0vG5bJOWklwrblSN6g8_-18" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="0vG5bJOWklwrblSN6g8_-21">
+          <mxGeometry x="2" y="16" width="90" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="0vG5bJOWklwrblSN6g8_-20" value="Atmosphere" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0vG5bJOWklwrblSN6g8_-21">
+          <mxGeometry width="85" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
