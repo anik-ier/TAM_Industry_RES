@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T22:30:33.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="L96YDWpdhIMfrNXDNOjQ" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-14T22:31:37.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="NZ2woEZERknh_Xpjjsgr" version="24.4.0" type="github" pages="11">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3886,7 +3886,7 @@
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="txhIiidtxLIZvm9J8BXf-0" target="8zm0Bbrnf9ADY0qvngmm-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="txhIiidtxLIZvm9J8BXf-0" value="Steam reforming" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="txhIiidtxLIZvm9J8BXf-0" value="Steam reforming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-882" y="-940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="0MP9WPDvq3OQ2l2qfq3P-0" target="8zm0Bbrnf9ADY0qvngmm-16">
@@ -3897,13 +3897,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0MP9WPDvq3OQ2l2qfq3P-0" value="&#xa;Methane Pyrolysis&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="0MP9WPDvq3OQ2l2qfq3P-0" value="&#xa;Methane Pyrolysis&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-882" y="-695" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="NJN4FonAt3ZD5sGVXtC8-0" target="8zm0Bbrnf9ADY0qvngmm-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NJN4FonAt3ZD5sGVXtC8-0" value="Electrolysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="NJN4FonAt3ZD5sGVXtC8-0" value="Electrolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-882" y="-752" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V9L8i7ku3u9srKvSUrqB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;curved=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="V9L8i7ku3u9srKvSUrqB-0" target="txhIiidtxLIZvm9J8BXf-0">
@@ -3939,7 +3939,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DGpobaO3qI3TleFQLVXz-1" value="Import" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#CCE5FF;strokeColor=#b46504;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="DGpobaO3qI3TleFQLVXz-1" value="Import" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-882" y="-639" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="DGpobaO3qI3TleFQLVXz-3" target="XcMuHVSNPqvQ74F_vspS-0">
@@ -3959,7 +3959,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xmJ65WZtN4mgkKPY3nqY-0" value="Biomass gassification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#81D681;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="xmJ65WZtN4mgkKPY3nqY-0" value="Biomass gassification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-882" y="-814" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="OB2EOyVuV-ytH7K9QDMC-0" target="xmJ65WZtN4mgkKPY3nqY-0">
@@ -3982,7 +3982,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcMuHVSNPqvQ74F_vspS-0" value="Partial oxidization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#8f8f8f;strokeColor=#666666;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="XcMuHVSNPqvQ74F_vspS-0" value="Partial oxidization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-882" y="-874" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="V9L8i7ku3u9srKvSUrqB-4" target="xmJ65WZtN4mgkKPY3nqY-0">
@@ -4069,7 +4069,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IYIq76XvqpQPTmeC83nj-0" value="Iron &amp;amp; Steel, Cement, Glass process source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
-          <mxGeometry x="-882" y="-599" width="121" height="30" as="geometry" />
+          <mxGeometry x="-882" y="-599" width="121" height="45" as="geometry" />
         </mxCell>
         <mxCell id="XpGPltrcEXN81WRGa7OW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#000000;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="IYIq76XvqpQPTmeC83nj-1" target="XpGPltrcEXN81WRGa7OW-0">
           <mxGeometry relative="1" as="geometry" />
@@ -4080,7 +4080,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IYIq76XvqpQPTmeC83nj-1" value="Atmosphere" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
-          <mxGeometry x="-881" y="-563" width="120" height="30" as="geometry" />
+          <mxGeometry x="-882" y="-546" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XpGPltrcEXN81WRGa7OW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="XpGPltrcEXN81WRGa7OW-0" target="XpGPltrcEXN81WRGa7OW-10">
           <mxGeometry relative="1" as="geometry" />
