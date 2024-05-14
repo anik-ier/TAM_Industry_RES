@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T11:39:28.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="0cf2jOoB3fiLwFvOU3Zo" version="24.4.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-14T11:40:46.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="AUd1rrWhgFoDoZi5MzbM" version="24.4.0" type="github" pages="10">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4039,29 +4039,6 @@
         <mxCell id="JygtJcb8JTXhgHZaf-pt-6" value="DACCU" style="rounded=0;whiteSpace=wrap;html=1;" parent="JygtJcb8JTXhgHZaf-pt-11" vertex="1">
           <mxGeometry x="10" y="110" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JygtJcb8JTXhgHZaf-pt-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-428" y="-687" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-14" value="Syngas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JygtJcb8JTXhgHZaf-pt-13" vertex="1" connectable="0">
-          <mxGeometry x="-0.2928" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PZCtwwnMXqUOedWbihi8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="JygtJcb8JTXhgHZaf-pt-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-786" y="-687" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PZCtwwnMXqUOedWbihi8-2" value="fossil feedstock" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PZCtwwnMXqUOedWbihi8-1" vertex="1" connectable="0">
-          <mxGeometry x="-0.1866" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-12" value="Conventional Processes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-638" y="-717" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="JygtJcb8JTXhgHZaf-pt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="JygtJcb8JTXhgHZaf-pt-18" target="JygtJcb8JTXhgHZaf-pt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4096,14 +4073,6 @@
         <mxCell id="JygtJcb8JTXhgHZaf-pt-21" value="Hydrogenation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-461" y="-290" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JygtJcb8JTXhgHZaf-pt-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-268" y="-687" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-24" value="Methanol synthesis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-428" y="-702" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JygtJcb8JTXhgHZaf-pt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="JygtJcb8JTXhgHZaf-pt-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-129" y="-275" as="targetPoint" />
@@ -4116,9 +4085,6 @@
           <mxGeometry x="-85" y="-279" as="geometry">
             <mxPoint x="10" y="4" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JygtJcb8JTXhgHZaf-pt-34" value="methanol" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-238" y="-687" as="geometry" />
         </mxCell>
         <mxCell id="XJuUAriJlehpY3kcxW9R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="XJuUAriJlehpY3kcxW9R-1">
           <mxGeometry relative="1" as="geometry">
@@ -4153,10 +4119,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XJuUAriJlehpY3kcxW9R-12" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="XJuUAriJlehpY3kcxW9R-12" value="" style="endArrow=block;html=1;rounded=0;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-781" y="-482" as="sourcePoint" />
-            <mxPoint x="-635" y="-482" as="targetPoint" />
+            <mxPoint x="-779" y="-491" as="sourcePoint" />
+            <mxPoint x="-633" y="-491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XJuUAriJlehpY3kcxW9R-13" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="XJuUAriJlehpY3kcxW9R-12">
@@ -4200,6 +4166,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJuUAriJlehpY3kcxW9R-33" value="Electricity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XJuUAriJlehpY3kcxW9R-31">
+          <mxGeometry x="0.0137" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJuUAriJlehpY3kcxW9R-34" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-780" y="-473" as="sourcePoint" />
+            <mxPoint x="-634" y="-473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJuUAriJlehpY3kcxW9R-35" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="XJuUAriJlehpY3kcxW9R-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XJuUAriJlehpY3kcxW9R-36" value="Electricity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XJuUAriJlehpY3kcxW9R-34">
           <mxGeometry x="0.0137" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
