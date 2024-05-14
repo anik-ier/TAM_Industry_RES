@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T22:24:11.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="KVM1I2hX4JbTTDYVNLQu" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-14T22:27:46.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="rSSHGn3gNsfYMdPBbzAc" version="24.4.0" type="github" pages="11">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3869,7 +3869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Abteilungseminar_2024" id="bnuSwn6CokyuqqTQnSto">
-    <mxGraphModel dx="2134" dy="2122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="2122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="KUMTBuaC6cRoSMxE0WYU-0" />
         <mxCell id="KUMTBuaC6cRoSMxE0WYU-1" parent="KUMTBuaC6cRoSMxE0WYU-0" />
@@ -3939,7 +3939,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DGpobaO3qI3TleFQLVXz-1" value="Import" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="DGpobaO3qI3TleFQLVXz-1" value="Import" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#CCE5FF;strokeColor=#b46504;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-882" y="-639" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="DGpobaO3qI3TleFQLVXz-3" target="XcMuHVSNPqvQ74F_vspS-0">
@@ -4100,10 +4100,10 @@
         <mxCell id="XpGPltrcEXN81WRGa7OW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="XpGPltrcEXN81WRGa7OW-10" target="XpGPltrcEXN81WRGa7OW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XpGPltrcEXN81WRGa7OW-10" value="Carbon transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="XpGPltrcEXN81WRGa7OW-10" value="Carbon transport" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-573" y="-627" width="110" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="XpGPltrcEXN81WRGa7OW-13" value="Carbon storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+        <mxCell id="XpGPltrcEXN81WRGa7OW-13" value="Carbon storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-483" y="-572" width="110" height="33" as="geometry" />
         </mxCell>
         <mxCell id="XpGPltrcEXN81WRGa7OW-15" value="Electricity" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
