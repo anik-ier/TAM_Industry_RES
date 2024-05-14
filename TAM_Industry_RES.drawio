@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T16:58:07.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="1iFWvQDhSubUR4a_v2iv" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-14T20:49:06.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Glz5Ok1HQjyqBga5Zm5P" version="24.4.0" type="github" pages="11">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2058,7 +2058,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Automobile_SEDOS" id="1AGoTRpg-nNeph4Nwfji">
-    <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2734" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WeQ4jsvNWEAgN9QGJ3ya-0" />
         <mxCell id="WeQ4jsvNWEAgN9QGJ3ya-1" parent="WeQ4jsvNWEAgN9QGJ3ya-0" />
@@ -3221,7 +3221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Chemi_TAM_new" id="UYlTKpOBEDR6p1utPK2i">
-    <mxGraphModel dx="3134" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2734" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qGYBssid4-hHYuwECvM9-0" />
         <mxCell id="qGYBssid4-hHYuwECvM9-1" parent="qGYBssid4-hHYuwECvM9-0" />
@@ -3869,7 +3869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VIdvdiT74pnta_dKzeI1" name="PhD">
-    <mxGraphModel dx="2284" dy="1882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4454,23 +4454,11 @@
         <mxCell id="SOea2ELA0qxhFz88o4K4-53" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="Rkjyz3qTNWC2Mx-ZvbYM-1">
           <mxGeometry x="-25.5" y="44.5" width="105" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="H8Dw5d9h3t_wi8RQSVpB-1" value="Iron &amp;amp; Steel" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-802" y="50" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H8Dw5d9h3t_wi8RQSVpB-2" value="Cement" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-802" y="164" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H8Dw5d9h3t_wi8RQSVpB-3" value="Glass" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-802" y="272" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z9rhfuRMtZkEfR_ZpzC--4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-706" y="165" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="feedback_loop_industry" id="SSL-JfLurTgZuYSTYdn0">
-    <mxGraphModel dx="2466" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#FFFFFF" math="0" shadow="0">
+  <diagram name="circular_carbon" id="SSL-JfLurTgZuYSTYdn0">
+    <mxGraphModel dx="2085" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="R9aY7uCxdMqTR_MswuXT-0" />
         <mxCell id="R9aY7uCxdMqTR_MswuXT-1" parent="R9aY7uCxdMqTR_MswuXT-0" />
@@ -4637,8 +4625,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of PhD" id="bnuSwn6CokyuqqTQnSto">
-    <mxGraphModel dx="2284" dy="1882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+  <diagram name="Abteilungseminar_2024" id="bnuSwn6CokyuqqTQnSto">
+    <mxGraphModel dx="1884" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="KUMTBuaC6cRoSMxE0WYU-0" />
         <mxCell id="KUMTBuaC6cRoSMxE0WYU-1" parent="KUMTBuaC6cRoSMxE0WYU-0" />
@@ -5076,7 +5064,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wohArPNmzY5i-zSSb87U" name="PhD_Circularity">
-    <mxGraphModel dx="2284" dy="782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
