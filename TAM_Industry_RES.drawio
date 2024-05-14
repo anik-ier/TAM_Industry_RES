@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T22:27:46.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="rSSHGn3gNsfYMdPBbzAc" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-14T22:30:33.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="L96YDWpdhIMfrNXDNOjQ" version="24.4.0" type="github" pages="11">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4244,6 +4244,30 @@
               <mxPoint x="-128" y="-691" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-31" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1062" y="-660" as="sourcePoint" />
+            <mxPoint x="-962" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-32" value="Feedstock" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="CjZam80qf0bFYdMPG4LU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-33" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1062" y="-641" as="sourcePoint" />
+            <mxPoint x="-962" y="-641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-34" value="Energy" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="CjZam80qf0bFYdMPG4LU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-36" value="Commodity" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-1067" y="-622" width="111" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-38" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-1066" y="-589" width="110" height="32.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
