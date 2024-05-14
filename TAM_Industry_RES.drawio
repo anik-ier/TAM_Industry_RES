@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T22:04:27.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="8Zmk6WAlDEPcpF8ELKAc" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-14T22:08:14.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ISdN4gjeD0Lxk29gdEIR" version="24.4.0" type="github" pages="11">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4019,6 +4019,9 @@
         <mxCell id="8zm0Bbrnf9ADY0qvngmm-16" value="H2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-684" y="-739" width="111" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="XpGPltrcEXN81WRGa7OW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="2iqmOnvfZVoyit1MPghP-0" target="XpGPltrcEXN81WRGa7OW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2iqmOnvfZVoyit1MPghP-0" value="Haber-Bosch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-529" y="-932.0000000000001" width="105" height="50" as="geometry" />
         </mxCell>
@@ -4050,8 +4053,14 @@
         <mxCell id="2iqmOnvfZVoyit1MPghP-3" value="Electricity" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-692" y="-845" width="111" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="XpGPltrcEXN81WRGa7OW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="zdEa8JHaWPZMB4d9seKx-0" target="XpGPltrcEXN81WRGa7OW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zdEa8JHaWPZMB4d9seKx-0" value="Methanol Synthesis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-529" y="-845" width="110" height="47.59" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGPltrcEXN81WRGa7OW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="zdEa8JHaWPZMB4d9seKx-4" target="XpGPltrcEXN81WRGa7OW-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zdEa8JHaWPZMB4d9seKx-4" value="Methanol hydrogenation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
           <mxGeometry x="-529" y="-759" width="110" height="47.59" as="geometry" />
@@ -4108,6 +4117,27 @@
         </mxCell>
         <mxCell id="XpGPltrcEXN81WRGa7OW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.327;entryY=0.921;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;curved=1;" edge="1" parent="KUMTBuaC6cRoSMxE0WYU-1" source="XpGPltrcEXN81WRGa7OW-15" target="XpGPltrcEXN81WRGa7OW-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGPltrcEXN81WRGa7OW-24" value="Methanol" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-379" y="-864" width="111" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGPltrcEXN81WRGa7OW-25" value="Ammonia" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-367" y="-918" width="111" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGPltrcEXN81WRGa7OW-26" value="Methanol" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-384" y="-780" width="111" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-0" value="&lt;div&gt;Steam Cracking&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-243" y="-679" width="122.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-1" value="&lt;div&gt;Electric Cracking&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-243" y="-613" width="122.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-2" value="MTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-243" y="-745" width="122.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CjZam80qf0bFYdMPG4LU-3" value="MTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-243" y="-811" width="122.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
