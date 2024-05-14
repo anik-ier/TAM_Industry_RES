@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T15:46:03.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="3pMf_UD2IO3soGxib3oH" version="24.4.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-14T15:46:31.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ZdcmPHUcgUT4cHoZnQmf" version="24.4.0" type="github" pages="10">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4439,14 +4439,20 @@
         <mxCell id="SOea2ELA0qxhFz88o4K4-33" value="others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="-292" width="106" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="SOea2ELA0qxhFz88o4K4-51" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-707.5" y="146.5" width="54" height="105" as="geometry" />
+        <mxCell id="Rkjyz3qTNWC2Mx-ZvbYM-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-723" y="100" width="90" height="156.5" as="geometry" />
         </mxCell>
-        <mxCell id="SOea2ELA0qxhFz88o4K4-52" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-723" y="100" width="90" height="47" as="geometry" />
+        <mxCell id="SOea2ELA0qxhFz88o4K4-52" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="Rkjyz3qTNWC2Mx-ZvbYM-2">
+          <mxGeometry width="90" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="SOea2ELA0qxhFz88o4K4-53" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="-733" y="191" width="105" height="26" as="geometry" />
+        <mxCell id="Rkjyz3qTNWC2Mx-ZvbYM-1" value="" style="group" vertex="1" connectable="0" parent="Rkjyz3qTNWC2Mx-ZvbYM-2">
+          <mxGeometry x="15.5" y="46.5" width="54" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SOea2ELA0qxhFz88o4K4-51" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="Rkjyz3qTNWC2Mx-ZvbYM-1">
+          <mxGeometry width="54" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="SOea2ELA0qxhFz88o4K4-53" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="Rkjyz3qTNWC2Mx-ZvbYM-1">
+          <mxGeometry x="-25.5" y="44.5" width="105" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -4871,11 +4877,20 @@
         <mxCell id="KUMTBuaC6cRoSMxE0WYU-100" value="End of life" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-97">
           <mxGeometry x="9.00000000000001" y="58" width="72" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fS_WzmKxrV3gBysQ6JNq-0" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
-          <mxGeometry x="-723" y="100" width="90" height="47" as="geometry" />
+        <mxCell id="3FV0Ybdkg_MV_cKFVQ0R-5" value="" style="group" vertex="1" connectable="0" parent="KUMTBuaC6cRoSMxE0WYU-1">
+          <mxGeometry x="-725" y="98.5" width="90" height="156.5" as="geometry" />
         </mxCell>
-        <mxCell id="fS_WzmKxrV3gBysQ6JNq-1" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="KUMTBuaC6cRoSMxE0WYU-1">
-          <mxGeometry x="-733" y="191" width="105" height="26" as="geometry" />
+        <mxCell id="3FV0Ybdkg_MV_cKFVQ0R-6" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="3FV0Ybdkg_MV_cKFVQ0R-5">
+          <mxGeometry width="90" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="3FV0Ybdkg_MV_cKFVQ0R-7" value="" style="group" vertex="1" connectable="0" parent="3FV0Ybdkg_MV_cKFVQ0R-5">
+          <mxGeometry x="15.5" y="46.5" width="54" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3FV0Ybdkg_MV_cKFVQ0R-8" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="3FV0Ybdkg_MV_cKFVQ0R-7">
+          <mxGeometry width="54" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="3FV0Ybdkg_MV_cKFVQ0R-9" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="3FV0Ybdkg_MV_cKFVQ0R-7">
+          <mxGeometry x="-25.5" y="44.5" width="105" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
