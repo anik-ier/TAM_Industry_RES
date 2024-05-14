@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T15:31:01.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="p_7WkmM6-EDzLHkQeUs9" version="24.4.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-14T15:45:39.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="yqvaCI-qC5xPcGK2iQDr" version="24.4.0" type="github" pages="10">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="3134" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4438,6 +4438,15 @@
         </mxCell>
         <mxCell id="SOea2ELA0qxhFz88o4K4-33" value="others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="-292" width="106" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="SOea2ELA0qxhFz88o4K4-51" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-707.5" y="146.5" width="54" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="SOea2ELA0qxhFz88o4K4-52" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-723" y="100" width="90" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SOea2ELA0qxhFz88o4K4-53" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-733" y="191" width="105" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
