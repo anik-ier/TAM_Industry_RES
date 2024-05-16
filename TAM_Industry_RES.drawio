@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T08:01:24.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="aZUrQmZ4MwqqtApZ52OM" version="24.4.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-16T08:03:07.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="dHyroIgvLCYG-Nc8rU8s" version="24.4.2" type="github" pages="12">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="2494" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4438,8 +4438,14 @@
         <mxCell id="8UgugG8EvB1tKAE_j6pl-139" value="others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8UgugG8EvB1tKAE_j6pl-1">
           <mxGeometry x="578" y="-298" width="106" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Tmh6Xxa1MWAB9RegmjoI-0" value="Plastic waste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8UgugG8EvB1tKAE_j6pl-1">
+        <mxCell id="Tmh6Xxa1MWAB9RegmjoI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="8UgugG8EvB1tKAE_j6pl-1" source="Tmh6Xxa1MWAB9RegmjoI-0" target="Tmh6Xxa1MWAB9RegmjoI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tmh6Xxa1MWAB9RegmjoI-0" value="End of life, Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8UgugG8EvB1tKAE_j6pl-1">
           <mxGeometry x="785" y="-406" width="106" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Tmh6Xxa1MWAB9RegmjoI-10" value="Plastic waste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8UgugG8EvB1tKAE_j6pl-1">
+          <mxGeometry x="930" y="-406" width="106" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
