@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-09T10:25:15.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="UXeTARvV2fzTXdlM83Gh" version="24.6.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-08-09T11:48:54.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="du-LXFpJka9cu1vPPoSn" version="24.6.4" type="github" pages="12">
   <diagram name="Automobile_SEDOS" id="oadtzzAwZ080eQIYAy08">
     <mxGraphModel dx="2494" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5698,7 +5698,7 @@
           <mxGeometry x="30" y="50" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-6" value="Paper" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="360" width="430" height="50" as="geometry">
+          <mxGeometry x="270" y="350" width="430" height="60" as="geometry">
             <mxRectangle x="320" y="300" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5708,8 +5708,8 @@
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-8" value="Mechanical" style="rounded=0;whiteSpace=wrap;html=1;" parent="N2uYh4JxXh48xR4OmgcQ-6" vertex="1">
           <mxGeometry x="130" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N2uYh4JxXh48xR4OmgcQ-11" value="Iron &amp;amp; Steel" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="290" width="430" height="60" as="geometry">
+        <mxCell id="N2uYh4JxXh48xR4OmgcQ-11" value="Iron &amp;amp; Steel" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="280" width="430" height="60" as="geometry">
             <mxRectangle x="260" y="290" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5726,7 +5726,7 @@
           <mxGeometry x="230" y="10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-17" value="Cement" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="520" width="430" height="50" as="geometry">
+          <mxGeometry x="270" y="520" width="430" height="60" as="geometry">
             <mxRectangle x="320" y="300" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5737,7 +5737,7 @@
           <mxGeometry x="200" y="10" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-20" value="NFM" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="580" width="430" height="60" as="geometry">
+          <mxGeometry x="270" y="590" width="430" height="60" as="geometry">
             <mxRectangle x="260" y="290" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5754,7 +5754,7 @@
           <mxGeometry x="230" y="10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-26" value="Chemical Industry" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="270" y="650" width="430" height="60" as="geometry">
+          <mxGeometry x="270" y="660" width="430" height="60" as="geometry">
             <mxRectangle x="320" y="300" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5765,7 +5765,7 @@
           <mxGeometry x="130" y="10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-29" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="720" width="430" height="210" as="geometry" />
+          <mxGeometry x="270" y="730" width="430" height="210" as="geometry" />
         </mxCell>
         <mxCell id="N2uYh4JxXh48xR4OmgcQ-30" value="Other Non metallic minerals" style="rounded=0;whiteSpace=wrap;html=1;" parent="N2uYh4JxXh48xR4OmgcQ-29" vertex="1">
           <mxGeometry x="10" y="10" width="120" height="30" as="geometry" />
