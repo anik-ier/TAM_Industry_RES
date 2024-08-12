@@ -3869,7 +3869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KF8sinUF67ufJ54SzBWQ" name="Chemi_TAM_new_v03">
-    <mxGraphModel dx="574" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -4366,7 +4366,7 @@
         <mxCell id="JKJTCDe8opxzXH6gjIgE-14" value="MTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JKJTCDe8opxzXH6gjIgE-10">
           <mxGeometry x="90" width="130.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TItAaYWBMTZpl_vTbT8o-24" value="CCUS" parent="0" visible="0" />
+        <mxCell id="TItAaYWBMTZpl_vTbT8o-24" value="CCUS" parent="0" />
         <mxCell id="r8n93RlPKBKcMnt9-3MG-1" value="" style="group" vertex="1" connectable="0" parent="TItAaYWBMTZpl_vTbT8o-24">
           <mxGeometry x="10.2" y="568.59" width="486.79999999999995" height="541.71" as="geometry" />
         </mxCell>
@@ -4376,7 +4376,7 @@
             <mxPoint x="326.8" y="111.40999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8n93RlPKBKcMnt9-3MG-3" value="feedstock_CO2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="r8n93RlPKBKcMnt9-3MG-1">
+        <mxCell id="r8n93RlPKBKcMnt9-3MG-3" value="feedstock_CO2" style="text;html=1;strokeColor=#00547D;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontColor=#333333;" vertex="1" parent="r8n93RlPKBKcMnt9-3MG-1">
           <mxGeometry x="271.29999999999995" y="47" width="113.5" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="r8n93RlPKBKcMnt9-3MG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="r8n93RlPKBKcMnt9-3MG-1" source="r8n93RlPKBKcMnt9-3MG-5">
