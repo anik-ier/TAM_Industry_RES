@@ -3869,7 +3869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KF8sinUF67ufJ54SzBWQ" name="Chemi_TAM_new_v03">
-    <mxGraphModel dx="683" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -4123,7 +4123,7 @@
         </mxCell>
         <mxCell id="3SWUEk_VC-0ljzTZD3-0-1" value="Methanol_fossil" parent="0" />
         <mxCell id="h5P8Gl18zGIGCrRZEey8-1" value="" style="group" vertex="1" connectable="0" parent="3SWUEk_VC-0ljzTZD3-0-1">
-          <mxGeometry x="300" y="550" width="285" height="364.80999999999995" as="geometry" />
+          <mxGeometry x="300" y="550" width="325" height="364.80999999999995" as="geometry" />
         </mxCell>
         <mxCell id="h5P8Gl18zGIGCrRZEey8-2" value="exo_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" vertex="1" parent="h5P8Gl18zGIGCrRZEey8-1">
           <mxGeometry x="194.36" y="65.91999999999996" width="93.76" height="24.83" as="geometry" />
@@ -4134,8 +4134,8 @@
             <mxPoint x="260" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h5P8Gl18zGIGCrRZEey8-4" value="feedstock_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="h5P8Gl18zGIGCrRZEey8-1">
-          <mxGeometry x="197" y="48" width="122" height="30" as="geometry" />
+        <mxCell id="h5P8Gl18zGIGCrRZEey8-4" value="feedstock_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;strokeColor=#00547D;" vertex="1" parent="h5P8Gl18zGIGCrRZEey8-1">
+          <mxGeometry x="198" y="54" width="122" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h5P8Gl18zGIGCrRZEey8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="h5P8Gl18zGIGCrRZEey8-1">
           <mxGeometry relative="1" as="geometry">
