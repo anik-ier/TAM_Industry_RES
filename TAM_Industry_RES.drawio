@@ -4364,7 +4364,7 @@
         </mxCell>
         <mxCell id="r8n93RlPKBKcMnt9-3MG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="r8n93RlPKBKcMnt9-3MG-1" source="r8n93RlPKBKcMnt9-3MG-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="328.04999999999995" y="439.53" as="targetPoint" />
+            <mxPoint x="327" y="439.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r8n93RlPKBKcMnt9-3MG-5" value="Carbon storage" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="r8n93RlPKBKcMnt9-3MG-1">
@@ -4380,7 +4380,7 @@
         </mxCell>
         <mxCell id="r8n93RlPKBKcMnt9-3MG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="r8n93RlPKBKcMnt9-3MG-6" source="r8n93RlPKBKcMnt9-3MG-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="15" as="targetPoint" />
+            <mxPoint x="142" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r8n93RlPKBKcMnt9-3MG-9" value="CO2 transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r8n93RlPKBKcMnt9-3MG-6">
