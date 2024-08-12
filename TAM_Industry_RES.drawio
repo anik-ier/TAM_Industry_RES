@@ -3869,7 +3869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KF8sinUF67ufJ54SzBWQ" name="Chemi_TAM_new_v03">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -4128,7 +4128,7 @@
         <mxCell id="h5P8Gl18zGIGCrRZEey8-2" value="exo_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" vertex="1" parent="h5P8Gl18zGIGCrRZEey8-1">
           <mxGeometry x="194.36" y="65.91999999999996" width="93.76" height="24.83" as="geometry" />
         </mxCell>
-        <mxCell id="h5P8Gl18zGIGCrRZEey8-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00547D;" edge="1" parent="h5P8Gl18zGIGCrRZEey8-1">
+        <mxCell id="h5P8Gl18zGIGCrRZEey8-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00547D;strokeWidth=2;" edge="1" parent="h5P8Gl18zGIGCrRZEey8-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="371" as="sourcePoint" />
             <mxPoint x="260" y="130" as="targetPoint" />
@@ -4317,7 +4317,7 @@
             <mxPoint x="651.495" y="773.3049999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TItAaYWBMTZpl_vTbT8o-1" value="HVC_green" parent="0" visible="0" />
+        <mxCell id="TItAaYWBMTZpl_vTbT8o-1" value="HVC_green" parent="0" />
         <mxCell id="JKJTCDe8opxzXH6gjIgE-4" value="" style="group" vertex="1" connectable="0" parent="TItAaYWBMTZpl_vTbT8o-1">
           <mxGeometry x="560" y="815" width="267" height="70" as="geometry" />
         </mxCell>
@@ -4376,7 +4376,7 @@
             <mxPoint x="326.8" y="111.40999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8n93RlPKBKcMnt9-3MG-3" value="feedstock_CO2" style="text;html=1;strokeColor=#00547D;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontColor=#333333;" vertex="1" parent="r8n93RlPKBKcMnt9-3MG-1">
+        <mxCell id="r8n93RlPKBKcMnt9-3MG-3" value="feedstock_CO2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;strokeColor=#00547D;" vertex="1" parent="r8n93RlPKBKcMnt9-3MG-1">
           <mxGeometry x="271.29999999999995" y="47" width="113.5" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="r8n93RlPKBKcMnt9-3MG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="r8n93RlPKBKcMnt9-3MG-1" source="r8n93RlPKBKcMnt9-3MG-5">
