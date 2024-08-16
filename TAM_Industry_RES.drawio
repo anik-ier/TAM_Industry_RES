@@ -6424,23 +6424,15 @@
     <mxGraphModel dx="2034" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="R9aY7uCxdMqTR_MswuXT-0" />
-        <mxCell id="R9aY7uCxdMqTR_MswuXT-1" parent="R9aY7uCxdMqTR_MswuXT-0" />
-        <mxCell id="R9aY7uCxdMqTR_MswuXT-94" value="&lt;div&gt;Incineration&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="R9aY7uCxdMqTR_MswuXT-1" vertex="1">
-          <mxGeometry x="-136.5" y="202" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="R9aY7uCxdMqTR_MswuXT-95" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" parent="R9aY7uCxdMqTR_MswuXT-1" vertex="1">
-          <mxGeometry x="-129" y="126" width="41" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="0vG5bJOWklwrblSN6g8_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=3;strokeColor=#004000;" parent="R9aY7uCxdMqTR_MswuXT-1" source="R9aY7uCxdMqTR_MswuXT-96" target="R9aY7uCxdMqTR_MswuXT-148" edge="1">
+        <mxCell id="R9aY7uCxdMqTR_MswuXT-1" parent="R9aY7uCxdMqTR_MswuXT-0" visible="0" />
+        <mxCell id="0vG5bJOWklwrblSN6g8_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=3;strokeColor=#004000;" parent="R9aY7uCxdMqTR_MswuXT-1" target="R9aY7uCxdMqTR_MswuXT-148" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-175" y="46" />
               <mxPoint x="-714" y="46" />
             </Array>
+            <mxPoint x="-174.70000000000005" y="100.80000000000007" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="R9aY7uCxdMqTR_MswuXT-96" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="R9aY7uCxdMqTR_MswuXT-1" vertex="1">
-          <mxGeometry x="-181" y="82" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="R9aY7uCxdMqTR_MswuXT-145" value="Iron &amp;amp; Steel" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="R9aY7uCxdMqTR_MswuXT-1" vertex="1">
           <mxGeometry x="-926" y="101" width="80" height="80" as="geometry" />
@@ -6518,7 +6510,9 @@
         <mxCell id="0vG5bJOWklwrblSN6g8_-20" value="Atmosphere" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0vG5bJOWklwrblSN6g8_-21" vertex="1">
           <mxGeometry width="85" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-0" value="recyclig" parent="R9aY7uCxdMqTR_MswuXT-0" />
+        <object label="linear_chemi" id="SrccvcNrngb6dtOokWeB-0">
+          <mxCell parent="R9aY7uCxdMqTR_MswuXT-0" />
+        </object>
         <mxCell id="SrccvcNrngb6dtOokWeB-25" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5955882352941145;arrowSize=0.3795518207282913;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
           <mxGeometry x="-208" y="226.94" width="69" height="40" as="geometry" />
         </mxCell>
@@ -6539,36 +6533,6 @@
         </mxCell>
         <mxCell id="SrccvcNrngb6dtOokWeB-4" value="plastic waste" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SrccvcNrngb6dtOokWeB-1">
           <mxGeometry x="2.0000000000000107" y="58" width="87" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;curved=1;" edge="1" parent="SrccvcNrngb6dtOokWeB-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-247" y="322" />
-              <mxPoint x="-527" y="322" />
-            </Array>
-            <mxPoint x="-247.49999999999977" y="291.0000000000001" as="sourcePoint" />
-            <mxPoint x="-527" y="282" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-10" value="Chemical recycling" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-9">
-          <mxGeometry x="0.1007" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;curved=1;" edge="1" parent="SrccvcNrngb6dtOokWeB-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-247" y="155" />
-              <mxPoint x="-487" y="155" />
-            </Array>
-            <mxPoint x="-247.49999999999977" y="202" as="sourcePoint" />
-            <mxPoint x="-487" y="202" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-12" value="Mechanical recycling" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-11">
-          <mxGeometry x="0.269" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SrccvcNrngb6dtOokWeB-13" value="" style="group" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-0">
           <mxGeometry x="-419" y="198" width="89" height="99" as="geometry" />
@@ -6599,6 +6563,46 @@
         </mxCell>
         <mxCell id="SrccvcNrngb6dtOokWeB-23" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="SrccvcNrngb6dtOokWeB-21">
           <mxGeometry x="-25.5" y="44.5" width="105" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-26" value="&lt;div&gt;Incineration&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
+          <mxGeometry x="-136.5" y="202" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-27" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
+          <mxGeometry x="-129" y="126" width="41" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-28" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
+          <mxGeometry x="-181" y="82" width="90" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-29" value="recycling" parent="R9aY7uCxdMqTR_MswuXT-0" visible="0" />
+        <mxCell id="SrccvcNrngb6dtOokWeB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;curved=1;" edge="1" parent="SrccvcNrngb6dtOokWeB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-247" y="155" />
+              <mxPoint x="-487" y="155" />
+            </Array>
+            <mxPoint x="-247.49999999999977" y="202" as="sourcePoint" />
+            <mxPoint x="-487" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-31" value="Mechanical recycling" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-30">
+          <mxGeometry x="0.269" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;curved=1;" edge="1" parent="SrccvcNrngb6dtOokWeB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-247" y="322" />
+              <mxPoint x="-527" y="322" />
+            </Array>
+            <mxPoint x="-247.49999999999977" y="291.0000000000001" as="sourcePoint" />
+            <mxPoint x="-527" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-33" value="Chemical recycling" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-32">
+          <mxGeometry x="0.1007" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
