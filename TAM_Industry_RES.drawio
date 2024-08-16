@@ -6513,6 +6513,24 @@
         <object label="linear_chemi" id="SrccvcNrngb6dtOokWeB-0">
           <mxCell parent="R9aY7uCxdMqTR_MswuXT-0" />
         </object>
+        <mxCell id="SrccvcNrngb6dtOokWeB-19" value="" style="group" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-0">
+          <mxGeometry x="-592" y="76" width="90" height="156.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-20" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-19">
+          <mxGeometry width="90" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-21" value="" style="group" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-19">
+          <mxGeometry x="15.5" y="46.5" width="54" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-22" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-21">
+          <mxGeometry width="54" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-23" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="SrccvcNrngb6dtOokWeB-21">
+          <mxGeometry x="-25.5" y="44.5" width="105" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SrccvcNrngb6dtOokWeB-27" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
+          <mxGeometry x="-140" y="121" width="41" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="SrccvcNrngb6dtOokWeB-25" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5955882352941145;arrowSize=0.3795518207282913;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
           <mxGeometry x="-208" y="226.94" width="69" height="40" as="geometry" />
         </mxCell>
@@ -6549,26 +6567,8 @@
         <mxCell id="SrccvcNrngb6dtOokWeB-18" value="Chemical industry" style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
           <mxGeometry x="-567" y="202" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-19" value="" style="group" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-0">
-          <mxGeometry x="-593" y="71" width="90" height="156.5" as="geometry" />
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-20" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-19">
-          <mxGeometry width="90" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-21" value="" style="group" vertex="1" connectable="0" parent="SrccvcNrngb6dtOokWeB-19">
-          <mxGeometry x="15.5" y="46.5" width="54" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-22" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-21">
-          <mxGeometry width="54" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-23" value="Direct emission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="SrccvcNrngb6dtOokWeB-21">
-          <mxGeometry x="-25.5" y="44.5" width="105" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="SrccvcNrngb6dtOokWeB-26" value="&lt;div&gt;Incineration&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
           <mxGeometry x="-147.5" y="197" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SrccvcNrngb6dtOokWeB-27" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
-          <mxGeometry x="-140" y="121" width="41" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SrccvcNrngb6dtOokWeB-28" value="CO2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="SrccvcNrngb6dtOokWeB-0">
           <mxGeometry x="-192" y="77" width="90" height="47" as="geometry" />
