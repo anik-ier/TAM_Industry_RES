@@ -6820,7 +6820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of circular_carbon" id="p97-9t68m_bqYMF-XHMj">
-    <mxGraphModel dx="2374" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#006A9D" math="0" shadow="0">
+    <mxGraphModel dx="2374" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#005882" math="0" shadow="0">
       <root>
         <mxCell id="Xyv60HtLhS_khgDMc8oK-0" />
         <mxCell id="Xyv60HtLhS_khgDMc8oK-1" parent="Xyv60HtLhS_khgDMc8oK-0" />
@@ -6966,14 +6966,14 @@
             <mxPoint x="-714.5714285714287" y="213.09523809523807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xyv60HtLhS_khgDMc8oK-40" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="Xyv60HtLhS_khgDMc8oK-28">
+        <mxCell id="Xyv60HtLhS_khgDMc8oK-40" value="" style="group;sketch=1;curveFitting=1;jiggle=2;fontColor=#B3B3B3;" vertex="1" connectable="0" parent="Xyv60HtLhS_khgDMc8oK-28">
           <mxGeometry x="-758" y="29" width="92" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Xyv60HtLhS_khgDMc8oK-41" value="CO&lt;font style=&quot;font-size: 8px;&quot;&gt;2&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="Xyv60HtLhS_khgDMc8oK-40">
           <mxGeometry x="2" y="16" width="90" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Xyv60HtLhS_khgDMc8oK-42" value="Atmosphere" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Xyv60HtLhS_khgDMc8oK-40">
-          <mxGeometry width="85" height="26" as="geometry" />
+        <mxCell id="Xyv60HtLhS_khgDMc8oK-42" value="&lt;font color=&quot;#b3b3b3&quot;&gt;Atmosphere&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Xyv60HtLhS_khgDMc8oK-40">
+          <mxGeometry x="2" width="82" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xyv60HtLhS_khgDMc8oK-43" value="Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Xyv60HtLhS_khgDMc8oK-28">
           <mxGeometry x="-593" y="324" width="60" height="80" as="geometry" />
