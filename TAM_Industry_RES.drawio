@@ -4437,11 +4437,11 @@
         <mxCell id="YtvXFZDMRhvPiycFNvTM-122" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#00547D;strokeWidth=2;" edge="1" parent="YtvXFZDMRhvPiycFNvTM-121">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="326.8" y="520" as="sourcePoint" />
-            <mxPoint x="326.8" y="111.40999999999997" as="targetPoint" />
+            <mxPoint x="326.8" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YtvXFZDMRhvPiycFNvTM-123" value="feedstock_CO2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;strokeColor=#00547D;" vertex="1" parent="YtvXFZDMRhvPiycFNvTM-121">
-          <mxGeometry x="271.29999999999995" y="47" width="113.5" height="17.94" as="geometry" />
+          <mxGeometry x="269.79999999999995" y="74" width="113.5" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="YtvXFZDMRhvPiycFNvTM-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="YtvXFZDMRhvPiycFNvTM-121" source="YtvXFZDMRhvPiycFNvTM-125">
           <mxGeometry relative="1" as="geometry">
