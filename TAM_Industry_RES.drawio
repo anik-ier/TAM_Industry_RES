@@ -6792,7 +6792,7 @@
         <mxCell id="VoDnu0GkrDNLvAgm1v8q-16" value="Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="VoDnu0GkrDNLvAgm1v8q-0" vertex="1">
           <mxGeometry x="-593" y="324" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VoDnu0GkrDNLvAgm1v8q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;curved=1;strokeWidth=3;strokeColor=#c0c0c0;" parent="VoDnu0GkrDNLvAgm1v8q-0" target="VoDnu0GkrDNLvAgm1v8q-16" edge="1">
+        <mxCell id="VoDnu0GkrDNLvAgm1v8q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;curved=1;strokeWidth=3;strokeColor=#009999;" parent="VoDnu0GkrDNLvAgm1v8q-0" target="VoDnu0GkrDNLvAgm1v8q-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-714" y="277.5" as="sourcePoint" />
           </mxGeometry>
