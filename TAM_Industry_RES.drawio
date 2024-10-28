@@ -1208,19 +1208,16 @@
         <mxCell id="bZBV8I5dC65ZyShcftlZ-23" value="exo_auto_pc_fcev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
           <mxGeometry x="552.5" y="248.06" width="52.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-24" value="Assembly &amp;amp; Others, existing &amp;amp; new" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
-          <mxGeometry x="297.5" y="550" width="140" height="120" as="geometry">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-24" value="Assembly &amp;amp; others" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
+          <mxGeometry x="297.5" y="550" width="140" height="90" as="geometry">
             <mxRectangle x="-547" y="880" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-25" value="Material handling" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-24" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-25" value="Material handling &amp;amp; Compress Air (_0/_1)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-24" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-26" value="Compress Air" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-24" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-27" value="&lt;div&gt;HVAC &amp;amp; Lighting&lt;/div&gt;&amp;nbsp;(_0/_1)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-24" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-27" value="&lt;div&gt;HVAC &amp;amp; Lighting&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-24" vertex="1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-28" value="" style="endArrow=none;html=1;rounded=0;" parent="bZBV8I5dC65ZyShcftlZ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
