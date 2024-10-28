@@ -9643,7 +9643,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GPaoXLeUJPhTxlDVLcs4-48" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="GPaoXLeUJPhTxlDVLcs4-1" vertex="1">
-          <mxGeometry x="795" y="159" width="39" height="36" as="geometry" />
+          <mxGeometry x="782" y="170" width="28" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="GPaoXLeUJPhTxlDVLcs4-52" value="" style="endArrow=oval;html=1;rounded=0;endSize=6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" parent="GPaoXLeUJPhTxlDVLcs4-1" source="GPaoXLeUJPhTxlDVLcs4-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -10476,6 +10476,9 @@
             <mxPoint x="455" y="285.5" as="sourcePoint" />
             <mxPoint x="410" y="286" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lsyty8Kf0nKQ8jdAZlJs-17" value="automobile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="GPaoXLeUJPhTxlDVLcs4-1">
+          <mxGeometry x="776" y="157.5" width="80" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
