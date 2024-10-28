@@ -2047,7 +2047,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-180" value="Assembly&amp;amp;Others" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-178" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-180" value="Assembly (_fasmbl_0)" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-178" vertex="1">
           <mxGeometry x="152" width="180" height="198.95" as="geometry">
             <mxRectangle x="152" width="170" height="158.95" as="alternateBounds" />
           </mxGeometry>
