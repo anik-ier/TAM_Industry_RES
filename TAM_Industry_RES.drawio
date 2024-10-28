@@ -1363,7 +1363,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-56" value="Painting_00" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-53" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-56" value="Painting (_pnts_0)" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-53" vertex="1">
           <mxGeometry x="110" width="180" height="200" as="geometry">
             <mxRectangle x="110" width="170" height="160" as="alternateBounds" />
           </mxGeometry>
@@ -1481,7 +1481,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-73" value="Painting_01" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-70" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-73" value="Painting_1 (_pnts_1)" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-70" vertex="1">
           <mxGeometry x="110" width="180" height="200" as="geometry">
             <mxRectangle x="110" width="170" height="160" as="alternateBounds" />
           </mxGeometry>
