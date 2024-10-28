@@ -1120,7 +1120,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Automobile_SEDOS_v01" id="dblsn2vQXHp-_jiD2Upy">
-    <mxGraphModel dx="2974" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-0" />
         <mxCell id="bZBV8I5dC65ZyShcftlZ-1" parent="bZBV8I5dC65ZyShcftlZ-0" />
@@ -1155,7 +1155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-9" value="iip_auto_parts_pc_icev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-449" y="212.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="-428.5" y="233.25" width="19" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1164,7 +1164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-11" value="iip_auto_parts_pc_phev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-449.75" y="210.26" width="112" height="30" as="geometry" />
+          <mxGeometry x="-428.62" y="231.39" width="69.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1173,10 +1173,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-13" value="iip_auto_parts_pc_bev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-420" y="214.58999999999997" width="100" height="30" as="geometry" />
+          <mxGeometry x="-400" y="234.59" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-14" value="iip_auto_parts_pc_fcev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-400" y="212.75" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="-378.75" y="234" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1185,16 +1185,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-16" value="iip_auto_parts-pc_icev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-355" y="225" width="150" height="30" as="geometry" />
+          <mxGeometry x="-342.5" y="237.5" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-17" value="iip_auto_parts_pc_phev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-337.25" y="221.89" width="161.5" height="30" as="geometry" />
+          <mxGeometry x="-325.12" y="234.02" width="137.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-18" value="iip_auto_parts_pc_bev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-316.25" y="221.51" width="167.5" height="30" as="geometry" />
+          <mxGeometry x="-300.63" y="237.14" width="136.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-19" value="iip_auto_parts-pc_fcev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-284.37" y="220.88" width="146.25" height="30" as="geometry" />
+          <mxGeometry x="-273.43" y="236.01" width="124.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-20" value="exo_auto_pc_icev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="477.5" y="223.05999999999997" width="60" height="30" as="geometry" />
@@ -1262,7 +1262,7 @@
           <mxGeometry x="-20" y="10" width="60" height="15.39" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-36" value="Painting Process by Vehicle drive type" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-32">
-          <mxGeometry x="40" y="10" width="170" height="30" as="geometry" />
+          <mxGeometry x="40" y="20" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-37" value="sec_elec_ind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="212.5" y="265.04" width="85" height="25.88" as="geometry" />
@@ -1292,16 +1292,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-42" value="iip_auto_painted_pc_icev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="23" y="219.32" width="163" height="29.74" as="geometry" />
+          <mxGeometry x="31" y="227.32" width="147" height="29.74" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-43" value="iip_auto_painted_pc_phev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="46.25" y="219.01" width="172.5" height="29.74" as="geometry" />
+          <mxGeometry x="55.62" y="228.39" width="153.75" height="29.74" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-44" value="iip_auto_painted_pc_bev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="69.63" y="218.2" width="165.25" height="29.74" as="geometry" />
+          <mxGeometry x="82.07" y="230.64" width="140.37" height="29.74" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-45" value="iip_auto_painted_pc_fcev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="83.75" y="219.57" width="172.5" height="29.74" as="geometry" />
+          <mxGeometry x="91.88" y="227.7" width="156.25" height="29.74" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1716,7 +1716,7 @@
           <mxGeometry x="43" y="-64.53" width="78" height="29.34" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-446.36999999999995" y="130" width="108.62" height="184.17" as="geometry" />
+          <mxGeometry x="-430" y="179.87" width="92.75" height="135.16" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="487.5" y="140" width="110" height="170" as="geometry" />
@@ -1881,10 +1881,10 @@
           <mxGeometry x="-934.62" y="850.05" width="180" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-144" value="iip_auto_hot_water" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-249.37" y="228.13" width="133.75" height="15" as="geometry" />
+          <mxGeometry x="-237.19" y="250.04" width="109.37" height="15" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-145" value="iip_auto_steam" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-224.37" y="236.01" width="123.75" height="19.34" as="geometry" />
+          <mxGeometry x="-211.25" y="257.96" width="95.42" height="17.25" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-146" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1970,7 +1970,7 @@
           <mxGeometry x="10" y="150" width="160" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-163" value="iip_auto_btry_pc (ICEV, PHEV, BEV, FCEV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-433" y="184.59" width="229" height="30" as="geometry" />
+          <mxGeometry x="-420" y="197.59" width="203" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-164" value="" style="group" vertex="1" connectable="0" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="-1044.62" y="460" width="319.9999999999999" height="100" as="geometry" />
@@ -2034,7 +2034,7 @@
           <mxGeometry x="467.5" y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-177" value="Parts by Vehicle drive type" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=8 8;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-510" y="90" width="170" height="30" as="geometry" />
+          <mxGeometry x="-510" y="140" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-178" value="" style="group" vertex="1" connectable="0" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="133.5" y="319.99" width="332" height="198.95" as="geometry" />
@@ -2210,7 +2210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-204" value="iip_auto_btry_pc (ICEV, PHEV, BEV, FCEV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="104.13" y="188.72" width="220.75" height="30" as="geometry" />
+          <mxGeometry x="111.57" y="196.16" width="205.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-205" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2228,7 +2228,7 @@
           <mxGeometry x="-762" y="237.98" width="116" height="21.54" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-208" value="iip_auto_space_heat" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="153.01000000000005" y="229.99999999999997" width="154.66" height="20.68" as="geometry" />
+          <mxGeometry x="166.85" y="239.70000000000002" width="126.99" height="20.68" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-209" value="&lt;div&gt;iip_auto_heat_proc- (400-1250 C)&lt;/div&gt;&lt;div&gt;iip_auto_steam- (110-200 C)&lt;/div&gt;&lt;div&gt;iip_auto_hot_water (upto 60 C)&lt;/div&gt;&lt;div&gt;iip_automobiöe_space_heat (upto 60 C)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="-642.5" y="900" width="250" height="60" as="geometry" />
