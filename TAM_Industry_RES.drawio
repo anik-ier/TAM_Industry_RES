@@ -1134,7 +1134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-4" value="&lt;div&gt;Light Commercial Vehicle (LCV)- Van [ICE, BEV, FCEV]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Heavy Commercial Vehicle (HCV)- Truck, Bus [ICE, BEV, FCEV]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-362.5" y="895" width="430" height="70" as="geometry" />
+          <mxGeometry x="-362.5" y="882" width="430" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-5" value="" style="group" vertex="1" connectable="0" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="-1024.62" y="240.26" width="68.76" height="650" as="geometry" />
@@ -1209,7 +1209,7 @@
           <mxGeometry x="552.5" y="248.06" width="52.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-24" value="Assembly &amp;amp; Others, existing &amp;amp; new" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="310" y="561.31" width="140" height="120" as="geometry">
+          <mxGeometry x="297.5" y="550" width="140" height="120" as="geometry">
             <mxRectangle x="-547" y="880" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2231,7 +2231,7 @@
           <mxGeometry x="166.85" y="239.70000000000002" width="126.99" height="20.68" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-209" value="&lt;div&gt;iip_auto_heat_proc- (400-1250 C)&lt;/div&gt;&lt;div&gt;iip_auto_steam- (110-200 C)&lt;/div&gt;&lt;div&gt;iip_auto_hot_water (upto 60 C)&lt;/div&gt;&lt;div&gt;iip_automobiöe_space_heat (upto 60 C)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
-          <mxGeometry x="-642.5" y="900" width="250" height="60" as="geometry" />
+          <mxGeometry x="-630" y="881.8" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-175" value="pri_biomass_stemwood" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="bZBV8I5dC65ZyShcftlZ-1">
           <mxGeometry x="-1050" y="240" width="60" height="14.9" as="geometry" />
