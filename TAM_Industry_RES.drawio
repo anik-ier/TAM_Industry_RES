@@ -1698,7 +1698,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-109" value="_furnace_00" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-88" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-109" value="_furnace_0" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-88" vertex="1">
           <mxGeometry x="-172.62" y="19.21" width="180" height="101.05" as="geometry">
             <mxRectangle width="170" height="68.95" as="alternateBounds" />
           </mxGeometry>
@@ -1740,7 +1740,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-118" value="_heat Pump_00" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-118" value="_heat_pump_0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
           <mxGeometry x="-934.62" y="805.92" width="180" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-119" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=8 8;" parent="bZBV8I5dC65ZyShcftlZ-1" edge="1">
@@ -1801,7 +1801,7 @@
             <mxPoint x="-702" y="630.5882352941178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-129" value="_boiler_00" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-129" value="_boiler_0" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
           <mxGeometry x="-934.62" y="580.26" width="180" height="101.05" as="geometry">
             <mxRectangle width="170" height="68.95" as="alternateBounds" />
           </mxGeometry>
@@ -1850,7 +1850,7 @@
             <mxPoint x="-660" y="771.7647058823529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-138" value="_boiler_01" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-138" value="_boiler_1" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
           <mxGeometry x="-934.62" y="695.92" width="180" height="101.05" as="geometry">
             <mxRectangle width="170" height="68.95" as="alternateBounds" />
           </mxGeometry>
@@ -1877,7 +1877,7 @@
             <mxPoint x="-660" y="866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-143" value="_heat Pump_01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-143" value="_heat_pump_01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
           <mxGeometry x="-934.62" y="850.05" width="180" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="bZBV8I5dC65ZyShcftlZ-144" value="iip_auto_hot_water" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="bZBV8I5dC65ZyShcftlZ-1" vertex="1">
@@ -2016,7 +2016,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZBV8I5dC65ZyShcftlZ-172" value="_furnace_01" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-166" vertex="1">
+        <mxCell id="bZBV8I5dC65ZyShcftlZ-172" value="_furnace_1" style="swimlane;whiteSpace=wrap;html=1;" parent="bZBV8I5dC65ZyShcftlZ-166" vertex="1">
           <mxGeometry x="109.99999999999989" width="180" height="100" as="geometry">
             <mxRectangle width="170" height="68.95" as="alternateBounds" />
           </mxGeometry>
