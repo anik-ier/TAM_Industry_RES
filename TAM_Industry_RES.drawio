@@ -3015,8 +3015,8 @@
             <mxPoint x="-487" y="-388.1500000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-1" value="iip_chemical_others_steam" style="text;html=1;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;direction=east;strokeColor=#b85450;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
-          <mxGeometry x="-684.9999999999999" y="-244.09000000000003" width="149.68" height="30" as="geometry" />
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-1" value="sec_heat_high" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;direction=east;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+          <mxGeometry x="-652.5" y="-276.59" width="84.68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-3" value="" style="endArrow=none;html=1;rounded=0;" parent="6JHBup4Or1-HCsspioyq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3045,7 +3045,7 @@
         <mxCell id="cK9pGvB3wZTkUULrM335-90" value="emi_co2_neg_air_dacc" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-535.3199999999999" y="-257.65999999999997" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-6" value="sec_elec_ind" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-6" value="sec_elec" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-677" y="-287.6600000000001" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK9pGvB3wZTkUULrM335-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" edge="1">
@@ -3152,10 +3152,10 @@
             <mxPoint x="110" y="-220.70588235294122" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzmfMMJ4PvuVL-cWd_Uf-0" value="&lt;div&gt;helper_co2_&lt;/div&gt;&lt;div&gt;transport&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="rzmfMMJ4PvuVL-cWd_Uf-0" value="&lt;div&gt;helper_co2_&lt;/div&gt;&lt;div&gt;delivery&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry x="-430" y="-477.56" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzmfMMJ4PvuVL-cWd_Uf-1" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;others_dacc_1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
+        <mxCell id="rzmfMMJ4PvuVL-cWd_Uf-1" value="&lt;div&gt;x2x_other_dac_&lt;/div&gt;&lt;div&gt;ht_1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6JHBup4Or1-HCsspioyq-1">
           <mxGeometry x="-587" y="-413.55999999999995" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
