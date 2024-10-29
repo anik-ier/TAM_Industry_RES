@@ -2277,11 +2277,6 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-7" value="sec_elec_ind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-52.75" y="-952.25" width="88.5" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-48" y="-793" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="-805" as="targetPoint" />
@@ -2308,11 +2303,6 @@
             <Array as="points">
               <mxPoint x="51.5" y="-648" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-17" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-68" y="-725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-18" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-19" edge="1">
@@ -2344,11 +2334,6 @@
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-25" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;btx_mta_1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="30" y="-667" width="122.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-87" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-68" y="-875" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-88" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3187,6 +3172,21 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-68" y="-655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JHBup4Or1-HCsspioyq-17" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-68" y="-725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JHBup4Or1-HCsspioyq-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-48" y="-793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JHBup4Or1-HCsspioyq-87" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-1" source="6JHBup4Or1-HCsspioyq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-68" y="-875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
