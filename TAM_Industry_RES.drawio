@@ -2237,7 +2237,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Chemi_SEDOS" id="EeoanONZm4v7mcF1-8GO">
-    <mxGraphModel dx="2349" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6JHBup4Or1-HCsspioyq-0" />
         <mxCell id="6JHBup4Or1-HCsspioyq-1" parent="6JHBup4Or1-HCsspioyq-0" />
@@ -2254,7 +2254,7 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-3" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;hvc_scrac_0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="27" y="-887" width="122.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-4" value="iip_chgemical_naptha" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-4" value="iip_chemi_naphtha" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-113.25" y="-974.25" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="6JHBup4Or1-HCsspioyq-91" edge="1">
@@ -2285,7 +2285,7 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-12" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;hvc_ecrac_1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="27" y="-818" width="122.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-13" value="exo_chemical_olefins" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-13" value="exo_chemi_olefins" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="110.25" y="-980" width="138.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="6JHBup4Or1-HCsspioyq-13" edge="1">
@@ -2318,7 +2318,7 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-19" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;olefins_mto_1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="30" y="-738" width="122.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-20" value="exo_chemical_btx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-20" value="exo_chemi_btx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="133" y="-976.49" width="131" height="22.97" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="6JHBup4Or1-HCsspioyq-20" edge="1">
@@ -2365,7 +2365,7 @@
             <mxPoint x="199" y="-780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-91" value="iip_chemical_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-91" value="iip_chemi_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-139" y="-980" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-141" value="" style="group" parent="6JHBup4Or1-HCsspioyq-1" vertex="1" connectable="0">
@@ -2391,7 +2391,7 @@
             <mxPoint x="-49" y="-863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-140" value="exo_chemical_NH3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-140" value="exo_chemi_nh3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="622.12" y="-968.2538095238097" width="124" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-131" value="sec_elec_ind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
@@ -2418,7 +2418,7 @@
             <mxPoint x="293" y="-894.6899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-109" value="iip_chemical_natgas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-109" value="iip_chemi_methane" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="242" y="-973.01" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-110" value="" style="endArrow=none;html=1;rounded=0;" parent="6JHBup4Or1-HCsspioyq-1" edge="1">
@@ -2504,8 +2504,8 @@
             <mxPoint x="167" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-129" value="iip_chemical_nh3_H2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
-          <mxGeometry x="462" y="-952.19" width="101" height="17.94" as="geometry" />
+        <mxCell id="6JHBup4Or1-HCsspioyq-129" value="iip_chemi_nh3_h2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+          <mxGeometry x="448.5" y="-965.69" width="128" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-130" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="6JHBup4Or1-HCsspioyq-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2569,7 +2569,7 @@
         <mxCell id="jhT7C__ZHojrYRDKGaTH-8" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;other_0&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="438.25" y="-289.54" width="132.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-9" value="exo_chemical_others" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-9" value="exo_chemi_others" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="549" y="-419.53999999999996" width="124" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-10" value="" style="endArrow=none;html=1;rounded=0;" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-9" edge="1">
@@ -2578,7 +2578,7 @@
             <mxPoint x="610.5" y="-336.68380952380966" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-13" value="iip_chemical_others_machine_drive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-13" value="iip_chemi_others_machine_drive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="312.5" y="-437.56" width="198" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-14" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-13" edge="1">
@@ -2587,7 +2587,7 @@
             <mxPoint x="410.5" y="-335.7889719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-15" value="iip_chemical_others_electro_chem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-15" value="iip_chemi_others_electro_chem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="291.88" y="-434.44" width="191.75" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-16" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-15" edge="1">
@@ -2596,7 +2596,7 @@
             <mxPoint x="386.75" y="-335.7889719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-17" value="iip_chemical_others_processes_others" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-17" value="iip_chemi_others_processes_others" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="260.75" y="-444.81" width="212.5" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-18" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-17" edge="1">
@@ -2605,7 +2605,7 @@
             <mxPoint x="366" y="-335.7889719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-19" value="iip_chemical_others_process_heat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-19" value="iip_chemi_others_process_heat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="253" y="-434.06" width="191" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-20" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-19" edge="1">
@@ -2614,7 +2614,7 @@
             <mxPoint x="347.5" y="-335.7889719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhT7C__ZHojrYRDKGaTH-21" value="iip_chemical_others_steam" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="jhT7C__ZHojrYRDKGaTH-21" value="iip_chemi_others_steam" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="254.5" y="-413.56" width="150" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="jhT7C__ZHojrYRDKGaTH-22" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="jhT7C__ZHojrYRDKGaTH-21" edge="1">
@@ -2839,7 +2839,7 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-30" value="sec_elec_ind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-70" vertex="1">
           <mxGeometry x="54" y="14.27" width="77" height="29.39" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-73" value="iip_chemical_meoh_f_h2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-73" value="iip_chemi_meoh_f_h2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
           <mxGeometry x="217.32" y="-239.56" width="143.12" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="m_3dw9yjxRnd6w59w1-z-3" value="[sec_methane,sec_hydrogen]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
@@ -2851,7 +2851,7 @@
             <mxPoint x="315.05999999999995" y="-142.16897196261687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cK9pGvB3wZTkUULrM335-1" value="iip_chemical_meoh_h2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
+        <mxCell id="cK9pGvB3wZTkUULrM335-1" value="iip_chemi_meoh_h2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
           <mxGeometry x="241.9999999999999" y="-240" width="143.12" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-75" value="emi_co2_reusable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
@@ -2914,7 +2914,7 @@
             <mxPoint x="-111" y="-593.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-85" value="exo_chemical_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-85" value="exo_chemi_methanol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-186" y="-1013.01" width="150" height="24.83" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-92" value="" style="endArrow=none;html=1;rounded=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="6JHBup4Or1-HCsspioyq-93" edge="1">
@@ -2968,7 +2968,7 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-93" value="sec_elec_ind" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="-166.49" y="-445.49" width="80.66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-99" value="exo_chemical_Cl2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-99" value="exo_chemi_cl2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1;" parent="6JHBup4Or1-HCsspioyq-1" vertex="1">
           <mxGeometry x="32.33999999999992" y="-464.46" width="117.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w8_ORpIxkn7bd3ZBtCEl-0" value="" style="endArrow=none;html=1;rounded=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-1" target="w8_ORpIxkn7bd3ZBtCEl-1" edge="1">
