@@ -2237,7 +2237,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Chemi_SEDOS" id="EeoanONZm4v7mcF1-8GO">
-    <mxGraphModel dx="2386" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6JHBup4Or1-HCsspioyq-0" />
         <mxCell id="6JHBup4Or1-HCsspioyq-1" parent="6JHBup4Or1-HCsspioyq-0" />
@@ -2667,13 +2667,13 @@
             <mxPoint x="290.38" y="-141.7289719626168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-27" value="" style="endArrow=none;html=1;rounded=0;" parent="6JHBup4Or1-HCsspioyq-48" target="m_3dw9yjxRnd6w59w1-z-3" edge="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-27" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-48" target="m_3dw9yjxRnd6w59w1-z-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="48.88" y="216.99" as="sourcePoint" />
             <mxPoint x="48.88" y="-154.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-48" target="6JHBup4Or1-HCsspioyq-30" edge="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F24F00;strokeColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-48" target="6JHBup4Or1-HCsspioyq-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="68.88" y="216.99" as="sourcePoint" />
             <mxPoint x="68.88" y="-154.5" as="targetPoint" />
@@ -2694,13 +2694,13 @@
             <mxPoint x="70" y="8" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-33" edge="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;strokeColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="23" as="targetPoint" />
             <mxPoint x="70" y="22.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" parent="6JHBup4Or1-HCsspioyq-33" source="6JHBup4Or1-HCsspioyq-37" edge="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;strokeColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-33" source="6JHBup4Or1-HCsspioyq-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="19" y="37" as="targetPoint" />
           </mxGeometry>
@@ -2716,7 +2716,7 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-39" value="" style="group" parent="6JHBup4Or1-HCsspioyq-48" vertex="1" connectable="0">
           <mxGeometry x="28.880000000000003" y="65" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-39" source="6JHBup4Or1-HCsspioyq-43" edge="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;strokeColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-39" source="6JHBup4Or1-HCsspioyq-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="12" as="targetPoint" />
           </mxGeometry>
@@ -2734,7 +2734,7 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-43" value="&lt;div&gt;ind_chemical_&lt;/div&gt;&lt;div&gt;methanol_mpyr_1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="6JHBup4Or1-HCsspioyq-39" vertex="1">
           <mxGeometry x="90" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-48" source="6JHBup4Or1-HCsspioyq-46" edge="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;strokeColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-48" source="6JHBup4Or1-HCsspioyq-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="69" y="150" as="targetPoint" />
           </mxGeometry>
@@ -2757,7 +2757,7 @@
             <mxPoint x="287.88" y="20.99000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-48" source="6JHBup4Or1-HCsspioyq-52" edge="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#F24F00;strokeWidth=1;endArrow=oval;endFill=1;jumpStyle=sharp;" parent="6JHBup4Or1-HCsspioyq-48" source="6JHBup4Or1-HCsspioyq-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="68.88" y="20.99000000000001" as="targetPoint" />
           </mxGeometry>
@@ -2778,7 +2778,7 @@
             <mxPoint x="300" y="24.99000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XpaspWcvL8SG2Uh4789e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" parent="6JHBup4Or1-HCsspioyq-53" source="6JHBup4Or1-HCsspioyq-56" edge="1">
+        <mxCell id="XpaspWcvL8SG2Uh4789e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;strokeColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-53" source="6JHBup4Or1-HCsspioyq-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="78" y="25" as="targetPoint" />
           </mxGeometry>
@@ -2821,13 +2821,13 @@
         <mxCell id="6JHBup4Or1-HCsspioyq-32" value="iip_chemi_methane" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontColor=#00547D;" parent="6JHBup4Or1-HCsspioyq-70" vertex="1">
           <mxGeometry x="-8.75" y="-7.102673796791445" width="122.5" height="29.390374331550802" as="geometry" />
         </mxCell>
-        <mxCell id="6JHBup4Or1-HCsspioyq-30" value="sec_elec_ind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-70" vertex="1">
+        <mxCell id="6JHBup4Or1-HCsspioyq-30" value="sec_elec_ind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontColor=#F24F00;" parent="6JHBup4Or1-HCsspioyq-70" vertex="1">
           <mxGeometry x="54" y="14.27" width="77" height="29.39" as="geometry" />
         </mxCell>
         <mxCell id="6JHBup4Or1-HCsspioyq-73" value="iip_chemi_meoh_f_h2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
           <mxGeometry x="217.32" y="-239.56" width="143.12" height="17.94" as="geometry" />
         </mxCell>
-        <mxCell id="m_3dw9yjxRnd6w59w1-z-3" value="[sec_methane,sec_hydrogen]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
+        <mxCell id="m_3dw9yjxRnd6w59w1-z-3" value="&lt;font color=&quot;#f24f00&quot;&gt;[sec_methane,sec_hydrogen]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="6JHBup4Or1-HCsspioyq-48" vertex="1">
           <mxGeometry x="-38" y="-251.38" width="171.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK9pGvB3wZTkUULrM335-0" value="" style="endArrow=none;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6JHBup4Or1-HCsspioyq-48" target="cK9pGvB3wZTkUULrM335-1" edge="1">
