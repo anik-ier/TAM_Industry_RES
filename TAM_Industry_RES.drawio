@@ -6273,7 +6273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Chemi_TAM_new_v05" id="Yw32P9MrsMRUzHe4lBhc">
-    <mxGraphModel dx="879" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-0" />
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-1" style="locked=1;" parent="9GBH5o3JYfvMI9BA5g0X-0" />
@@ -6704,7 +6704,7 @@
           <mxGeometry x="-38.125" y="35" width="106.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-105" value="" style="group" vertex="1" connectable="0" parent="9GBH5o3JYfvMI9BA5g0X-92">
-          <mxGeometry x="22.495000000000005" y="3.7749999999999773" width="24" height="344.53" as="geometry" />
+          <mxGeometry x="22.495000000000005" y="3.7749999999999773" width="58.75" height="344.53" as="geometry" />
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-106" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#F24F00;" edge="1" parent="9GBH5o3JYfvMI9BA5g0X-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -6713,7 +6713,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-107" value="pri_natural_gas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="9GBH5o3JYfvMI9BA5g0X-105">
-          <mxGeometry x="-39.5" y="43" width="103" height="24" as="geometry" />
+          <mxGeometry x="-34.75" y="44" width="93.5" height="24" as="geometry" />
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-108" value="" style="group" vertex="1" connectable="0" parent="9GBH5o3JYfvMI9BA5g0X-92">
           <mxGeometry x="42.495000000000005" y="46.27499999999998" width="27" height="302.03" as="geometry" />
@@ -6725,7 +6725,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-110" value="sec_elec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="9GBH5o3JYfvMI9BA5g0X-108">
-          <mxGeometry x="-16.5" y="14" width="60" height="27" as="geometry" />
+          <mxGeometry x="-18" y="17" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-111" value="" style="group" vertex="1" connectable="0" parent="9GBH5o3JYfvMI9BA5g0X-92">
           <mxGeometry x="16.995000000000005" y="230.00499999999994" width="247" height="30" as="geometry" />
