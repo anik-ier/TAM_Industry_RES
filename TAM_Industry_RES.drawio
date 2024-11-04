@@ -6273,7 +6273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Chemi_TAM_new_v05" id="Yw32P9MrsMRUzHe4lBhc">
-    <mxGraphModel dx="1062" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-0" />
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-1" style="locked=1;" parent="9GBH5o3JYfvMI9BA5g0X-0" />
@@ -6859,7 +6859,7 @@
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="9GBH5o3JYfvMI9BA5g0X-139" source="9GBH5o3JYfvMI9BA5g0X-143">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="328" y="499.53" as="targetPoint" />
+            <mxPoint x="327" y="499.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-143" value="Carbon storage" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="9GBH5o3JYfvMI9BA5g0X-139">
@@ -6875,7 +6875,7 @@
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="9GBH5o3JYfvMI9BA5g0X-144" source="9GBH5o3JYfvMI9BA5g0X-147">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="139" y="15" as="targetPoint" />
+            <mxPoint x="138" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-147" value="CO2 transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9GBH5o3JYfvMI9BA5g0X-144">
@@ -6897,7 +6897,7 @@
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="9GBH5o3JYfvMI9BA5g0X-139" source="9GBH5o3JYfvMI9BA5g0X-152">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="197.29999999999995" y="515.53" as="targetPoint" />
+            <mxPoint x="196" y="515.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9GBH5o3JYfvMI9BA5g0X-152" value="DAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9GBH5o3JYfvMI9BA5g0X-139">
