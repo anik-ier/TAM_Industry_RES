@@ -7409,6 +7409,12 @@
         <mxCell id="vT9Nh_e-WF7acvD5meLz-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2.6 Mt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MYB5CPTlZPLQ8gE_qUOC-25">
           <mxGeometry x="1505.25" y="966" width="38.5" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="vT9Nh_e-WF7acvD5meLz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MYB5CPTlZPLQ8gE_qUOC-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1374.5" y="652" as="sourcePoint" />
+            <mxPoint x="1374.5" y="652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
