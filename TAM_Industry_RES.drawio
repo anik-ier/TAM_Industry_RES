@@ -7361,7 +7361,7 @@
           <mxGeometry x="-15" y="2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYB5CPTlZPLQ8gE_qUOC-46" value="" style="group" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1" connectable="0">
-          <mxGeometry x="1394" y="682" width="96.62" height="244" as="geometry" />
+          <mxGeometry x="1394" y="682" width="106" height="244" as="geometry" />
         </mxCell>
         <mxCell id="MYB5CPTlZPLQ8gE_qUOC-39" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=8 8;" parent="MYB5CPTlZPLQ8gE_qUOC-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -7378,11 +7378,16 @@
         <mxCell id="MYB5CPTlZPLQ8gE_qUOC-41" value="plastic use phase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="MYB5CPTlZPLQ8gE_qUOC-46" vertex="1">
           <mxGeometry x="-7" y="192" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vT9Nh_e-WF7acvD5meLz-30" value="packaging plastics, 3.22 Mt" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-46" vertex="1">
-          <mxGeometry x="-6" y="42" width="104" height="32" as="geometry" />
+        <mxCell id="vT9Nh_e-WF7acvD5meLz-30" value="packaging plastics, 3.22 Mt, short lived" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-46" vertex="1">
+          <mxGeometry x="-6" y="42" width="112" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="vT9Nh_e-WF7acvD5meLz-45" value="building &amp;amp; const. plastics, 2.94 Mt" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-46" vertex="1">
-          <mxGeometry x="-7" y="8" width="103.62" height="29.25" as="geometry" />
+        <mxCell id="rmuspkG6mSHgb3GV2PxA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MYB5CPTlZPLQ8gE_qUOC-46" target="vT9Nh_e-WF7acvD5meLz-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25.11595087466003" y="17" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vT9Nh_e-WF7acvD5meLz-45" value="building &amp;amp; const. plastics, 2.94 Mt, long lived" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-46" vertex="1">
+          <mxGeometry x="-5" y="-5" width="111" height="43.25" as="geometry" />
         </mxCell>
         <mxCell id="MYB5CPTlZPLQ8gE_qUOC-47" value="" style="group" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1" connectable="0">
           <mxGeometry x="1620" y="613" width="30" height="321" as="geometry" />
@@ -7436,31 +7441,22 @@
             <mxPoint x="1495.5" y="706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rmuspkG6mSHgb3GV2PxA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MYB5CPTlZPLQ8gE_qUOC-25" target="vT9Nh_e-WF7acvD5meLz-53">
+        <mxCell id="rmuspkG6mSHgb3GV2PxA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="MYB5CPTlZPLQ8gE_qUOC-25" target="vT9Nh_e-WF7acvD5meLz-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1370" y="669" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1368" y="667" />
-              <mxPoint x="1368" y="669" />
-            </Array>
+            <mxPoint x="1368.304347826087" y="658.1304347826087" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vT9Nh_e-WF7acvD5meLz-53" value="automobile plastics, 1.10 Mt" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
-          <mxGeometry x="1389" y="655" width="103.5" height="28" as="geometry" />
+        <mxCell id="vT9Nh_e-WF7acvD5meLz-53" value="automobile plastics, 1.10 Mt, high export" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
+          <mxGeometry x="1388" y="628" width="113" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vT9Nh_e-WF7acvD5meLz-54" value="waste, 0.23 Mt" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
-          <mxGeometry x="1495" y="492" width="83" height="27" as="geometry" />
+        <mxCell id="vT9Nh_e-WF7acvD5meLz-54" value="waste, 0.23 Mt" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
+          <mxGeometry x="1515" y="657" width="83" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="vT9Nh_e-WF7acvD5meLz-46" value="waste, 0.52 Mt" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
-          <mxGeometry x="1496" y="530" width="84" height="26" as="geometry" />
+        <mxCell id="vT9Nh_e-WF7acvD5meLz-46" value="waste, 0.52 Mt" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
+          <mxGeometry x="1516" y="697" width="84" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="rmuspkG6mSHgb3GV2PxA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MYB5CPTlZPLQ8gE_qUOC-25" target="vT9Nh_e-WF7acvD5meLz-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1369" y="705" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vT9Nh_e-WF7acvD5meLz-31" value="waste, 3.16 Mt" style="whiteSpace=wrap;html=1;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
-          <mxGeometry x="1496" y="566" width="85" height="26" as="geometry" />
+        <mxCell id="vT9Nh_e-WF7acvD5meLz-31" value="waste, 3.16 Mt" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="MYB5CPTlZPLQ8gE_qUOC-25" vertex="1">
+          <mxGeometry x="1514" y="733" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rmuspkG6mSHgb3GV2PxA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MYB5CPTlZPLQ8gE_qUOC-25" target="vT9Nh_e-WF7acvD5meLz-30">
           <mxGeometry relative="1" as="geometry">
