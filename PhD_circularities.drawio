@@ -8,7 +8,7 @@
         <mxCell id="lKqFauuPE0kPOxdu61FG-3" value="" style="endArrow=none;rounded=0;strokeColor=#00547D;strokeWidth=1;endSize=6;exitX=0.027;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;html=1;" parent="lKqFauuPE0kPOxdu61FG-2" source="lKqFauuPE0kPOxdu61FG-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="361" y="674.6791443850267" as="sourcePoint" />
-            <mxPoint x="360" y="970" as="targetPoint" />
+            <mxPoint x="360" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lKqFauuPE0kPOxdu61FG-4" value="" style="endArrow=none;rounded=0;strokeColor=#00547D;fontFamily=Helvetica;html=1;" parent="lKqFauuPE0kPOxdu61FG-2" edge="1">
@@ -113,7 +113,7 @@
         </mxCell>
         <mxCell id="lKqFauuPE0kPOxdu61FG-27" value="" style="endArrow=none;rounded=0;fillColor=#647687;strokeColor=#00547D;strokeWidth=1;fontFamily=Helvetica;html=1;" parent="lKqFauuPE0kPOxdu61FG-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="643" y="967" as="sourcePoint" />
+            <mxPoint x="643" y="963" as="sourcePoint" />
             <mxPoint x="643" y="677" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -695,6 +695,11 @@
             <mxPoint x="34" y="27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3kqjSI5dXQbD1yppl3LE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="3kqjSI5dXQbD1yppl3LE-16" source="3kqjSI5dXQbD1yppl3LE-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-304.79999999999995" y="8.799999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3kqjSI5dXQbD1yppl3LE-20" value="FT-Synthesis_Bio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3kqjSI5dXQbD1yppl3LE-16">
           <mxGeometry x="69" width="104" height="36" as="geometry" />
         </mxCell>
@@ -927,7 +932,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-80" value="CO2 transport" style="rounded=0;whiteSpace=wrap;html=1;" parent="3kqjSI5dXQbD1yppl3LE-0" vertex="1">
-          <mxGeometry x="150" y="12" width="115" height="28" as="geometry" />
+          <mxGeometry x="150" y="6" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="MYB5CPTlZPLQ8gE_qUOC-0" value="FT-Syn" parent="lKqFauuPE0kPOxdu61FG-0" />
         <mxCell id="MYB5CPTlZPLQ8gE_qUOC-7" value="feedstock_methanol" parent="lKqFauuPE0kPOxdu61FG-0" />
