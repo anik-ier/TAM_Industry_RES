@@ -567,7 +567,7 @@
         <mxCell id="lKqFauuPE0kPOxdu61FG-137" value="MTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="lKqFauuPE0kPOxdu61FG-133" vertex="1">
           <mxGeometry x="90" width="130.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lKqFauuPE0kPOxdu61FG-138" value="CCUS" parent="lKqFauuPE0kPOxdu61FG-0" visible="0" />
+        <mxCell id="lKqFauuPE0kPOxdu61FG-138" value="CCUS" parent="lKqFauuPE0kPOxdu61FG-0" />
         <mxCell id="lKqFauuPE0kPOxdu61FG-139" value="" style="group" parent="lKqFauuPE0kPOxdu61FG-138" vertex="1" connectable="0">
           <mxGeometry x="349" y="521" width="490.29999999999995" height="602.48" as="geometry" />
         </mxCell>
@@ -683,7 +683,7 @@
         <mxCell id="lKqFauuPE0kPOxdu61FG-170" value="&lt;font face=&quot;Times New Roman&quot;&gt;Process&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="lKqFauuPE0kPOxdu61FG-162" vertex="1">
           <mxGeometry x="1046" y="1105" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wmqYhTbL1pGCAonTOChB-42" value="ind_spec_CC" parent="lKqFauuPE0kPOxdu61FG-0" visible="0" />
+        <mxCell id="wmqYhTbL1pGCAonTOChB-42" value="ind_spec_CC" parent="lKqFauuPE0kPOxdu61FG-0" />
         <mxCell id="wmqYhTbL1pGCAonTOChB-43" value="" style="endArrow=none;html=1;rounded=0;" parent="wmqYhTbL1pGCAonTOChB-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="221" y="890" as="sourcePoint" />
