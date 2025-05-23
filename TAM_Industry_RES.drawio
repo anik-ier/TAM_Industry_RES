@@ -12371,7 +12371,7 @@
           <mxGeometry x="155.62" y="831" width="90.88" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-188" value="comb_CO2_steel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="dL21VvkI5TZ0xcsm-EzD-163" vertex="1">
-          <mxGeometry x="197.11999999999995" y="830" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="173" y="828" width="94.88" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-189" value="sec_heat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="dL21VvkI5TZ0xcsm-EzD-163" vertex="1">
           <mxGeometry x="-9.000000000000057" y="850" width="47.88" height="20.48" as="geometry" />
@@ -12386,10 +12386,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-192" value="comb_CO2_cement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="dL21VvkI5TZ0xcsm-EzD-163" vertex="1">
-          <mxGeometry x="244.99999999999994" y="822" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="213.94" y="822" width="110" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-193" value="proc_CO2_cement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="dL21VvkI5TZ0xcsm-EzD-163" vertex="1">
-          <mxGeometry x="225" y="826" width="47.88" height="19.52" as="geometry" />
+          <mxGeometry x="194" y="826" width="107" height="19.52" as="geometry" />
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-194" value="" style="endArrow=none;html=1;rounded=0;" parent="dL21VvkI5TZ0xcsm-EzD-163" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -12398,10 +12398,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-195" value="comb_CO2_glass" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="dL21VvkI5TZ0xcsm-EzD-163" vertex="1">
-          <mxGeometry x="292.87999999999994" y="830" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="262" y="828" width="105.12" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-196" value="proc_CO2_glass" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="dL21VvkI5TZ0xcsm-EzD-163" vertex="1">
-          <mxGeometry x="272.87999999999994" y="830" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="246.76" y="832" width="100.12" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="dL21VvkI5TZ0xcsm-EzD-197" value="" style="endArrow=none;html=1;rounded=0;" parent="dL21VvkI5TZ0xcsm-EzD-163" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
