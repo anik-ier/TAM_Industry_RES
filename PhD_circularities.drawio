@@ -333,7 +333,7 @@
         <mxCell id="lKqFauuPE0kPOxdu61FG-82" value="Methanol Synthesis" style="rounded=0;whiteSpace=wrap;html=1;" parent="lKqFauuPE0kPOxdu61FG-73" vertex="1">
           <mxGeometry x="83.99999999999994" y="175.80758620689647" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lKqFauuPE0kPOxdu61FG-83" value="methanol_green" parent="lKqFauuPE0kPOxdu61FG-0" visible="0" />
+        <mxCell id="lKqFauuPE0kPOxdu61FG-83" value="methanol_green" parent="lKqFauuPE0kPOxdu61FG-0" />
         <mxCell id="lKqFauuPE0kPOxdu61FG-84" value="" style="group" parent="lKqFauuPE0kPOxdu61FG-83" vertex="1" connectable="0">
           <mxGeometry x="661" y="767" width="255" height="37.23000000000002" as="geometry" />
         </mxCell>
@@ -365,7 +365,7 @@
         <mxCell id="lKqFauuPE0kPOxdu61FG-90" value="Methanol hydrogenation" style="rounded=0;whiteSpace=wrap;html=1;" parent="lKqFauuPE0kPOxdu61FG-84" vertex="1">
           <mxGeometry x="66.99999999999994" width="110" height="37.23" as="geometry" />
         </mxCell>
-        <mxCell id="lKqFauuPE0kPOxdu61FG-91" value="HVC_fossil" parent="lKqFauuPE0kPOxdu61FG-0" visible="0" />
+        <mxCell id="lKqFauuPE0kPOxdu61FG-91" value="HVC_fossil" parent="lKqFauuPE0kPOxdu61FG-0" />
         <mxCell id="lKqFauuPE0kPOxdu61FG-92" value="" style="group" parent="lKqFauuPE0kPOxdu61FG-91" vertex="1" connectable="0">
           <mxGeometry x="905" y="565.9999999999999" width="328" height="392.0000000000001" as="geometry" />
         </mxCell>
@@ -518,7 +518,7 @@
             <mxPoint x="91" y="212.005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lKqFauuPE0kPOxdu61FG-126" value="HVC_green" parent="lKqFauuPE0kPOxdu61FG-0" visible="0" />
+        <mxCell id="lKqFauuPE0kPOxdu61FG-126" value="HVC_green" parent="lKqFauuPE0kPOxdu61FG-0" />
         <mxCell id="lKqFauuPE0kPOxdu61FG-127" value="" style="group" parent="lKqFauuPE0kPOxdu61FG-126" vertex="1" connectable="0">
           <mxGeometry x="902" y="835" width="267" height="70" as="geometry" />
         </mxCell>
@@ -861,7 +861,7 @@
         <mxCell id="wmqYhTbL1pGCAonTOChB-84" value="feedstock_CO2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;strokeColor=#00547D;fillColor=#B7EDE2;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
           <mxGeometry x="621" y="611" width="113.5" height="17.94" as="geometry" />
         </mxCell>
-        <mxCell id="MYB5CPTlZPLQ8gE_qUOC-0" value="FT-Syn" parent="lKqFauuPE0kPOxdu61FG-0" visible="0" />
+        <mxCell id="MYB5CPTlZPLQ8gE_qUOC-0" value="FT-Syn" parent="lKqFauuPE0kPOxdu61FG-0" />
         <mxCell id="MYB5CPTlZPLQ8gE_qUOC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;jumpStyle=sharp;strokeColor=#516B90;" parent="MYB5CPTlZPLQ8gE_qUOC-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="953.5" as="targetPoint" />
