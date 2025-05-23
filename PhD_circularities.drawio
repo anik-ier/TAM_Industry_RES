@@ -793,10 +793,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-66" value="proc_CO2_steel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
-          <mxGeometry x="177.11999999999995" y="830" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="145" y="826" width="106.88" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-67" value="comb_CO2_steel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
-          <mxGeometry x="197.11999999999995" y="830" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="168" y="824" width="100.88" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-68" value="sec_heat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
           <mxGeometry x="-9.000000000000057" y="850" width="47.88" height="20.48" as="geometry" />
@@ -811,10 +811,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-71" value="comb_CO2_cement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
-          <mxGeometry x="244.99999999999994" y="822" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="207" y="817" width="119" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-72" value="proc_CO2_cement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
-          <mxGeometry x="225" y="826" width="47.88" height="19.52" as="geometry" />
+          <mxGeometry x="192" y="819" width="107" height="19.52" as="geometry" />
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-73" value="" style="endArrow=none;html=1;rounded=0;" parent="wmqYhTbL1pGCAonTOChB-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -823,10 +823,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-74" value="comb_CO2_glass" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
-          <mxGeometry x="292.87999999999994" y="830" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="263" y="822" width="102.12" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-75" value="proc_CO2_glass" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=0;flipH=0;direction=west;" parent="wmqYhTbL1pGCAonTOChB-42" vertex="1">
-          <mxGeometry x="272.87999999999994" y="830" width="47.88" height="20.48" as="geometry" />
+          <mxGeometry x="244" y="826" width="98.12" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="wmqYhTbL1pGCAonTOChB-76" value="" style="endArrow=none;html=1;rounded=0;" parent="wmqYhTbL1pGCAonTOChB-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
