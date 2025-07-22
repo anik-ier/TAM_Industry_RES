@@ -14516,7 +14516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Automobile_process_det" id="I4EPj9PQyxkG8KAKz9oW">
-    <mxGraphModel dx="1426" dy="787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vCy-pLvFnI1_GbRMIiCd-0" />
         <mxCell id="vCy-pLvFnI1_GbRMIiCd-1" parent="vCy-pLvFnI1_GbRMIiCd-0" />
@@ -14562,7 +14562,7 @@
             <mxPoint x="-428" y="161.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vCy-pLvFnI1_GbRMIiCd-12" value="Painting process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
+        <mxCell id="vCy-pLvFnI1_GbRMIiCd-12" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Painting process&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
           <mxGeometry x="-158" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vCy-pLvFnI1_GbRMIiCd-13" value="" style="endArrow=none;html=1;rounded=0;endSize=6;" edge="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
@@ -14587,7 +14587,7 @@
             <mxPoint x="-8" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vCy-pLvFnI1_GbRMIiCd-16" value="Parts Production processes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
+        <mxCell id="vCy-pLvFnI1_GbRMIiCd-16" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Parts Production processes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
           <mxGeometry x="-393" y="151.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vCy-pLvFnI1_GbRMIiCd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;jumpStyle=sharp;endArrow=oval;endFill=1;" edge="1" parent="vCy-pLvFnI1_GbRMIiCd-3" source="vCy-pLvFnI1_GbRMIiCd-19">
@@ -14600,7 +14600,7 @@
             <mxPoint x="-248" y="259.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vCy-pLvFnI1_GbRMIiCd-19" value="Battery Production processes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
+        <mxCell id="vCy-pLvFnI1_GbRMIiCd-19" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Battery Production processes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
           <mxGeometry x="-393" y="229.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vCy-pLvFnI1_GbRMIiCd-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="vCy-pLvFnI1_GbRMIiCd-3">
@@ -14748,7 +14748,7 @@
             <mxPoint x="650.0000000000002" y="285.83333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vCy-pLvFnI1_GbRMIiCd-49" value="Assembly " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-1">
+        <mxCell id="vCy-pLvFnI1_GbRMIiCd-49" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Assembly &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="vCy-pLvFnI1_GbRMIiCd-1">
           <mxGeometry x="665" y="285.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vCy-pLvFnI1_GbRMIiCd-50" value="" style="endArrow=none;html=1;rounded=0;endSize=6;" edge="1" parent="vCy-pLvFnI1_GbRMIiCd-1">
